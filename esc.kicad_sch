@@ -1,0 +1,266 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "131092d7-5dad-4272-a758-a2445b6ec99c")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 152.4 58.42)
+		(size 31.75 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "01ceff22-9ba4-449c-a4ee-d6fe6e674f35")
+		(property "Sheetname" "MOTOR_DRIVER_M3"
+			(at 152.4 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "motor_driver_m3.kicad_sch"
+			(at 152.4 85.6746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 107.95)
+		(size 31.75 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "63f0bd9c-70c2-4847-814d-8da099671243")
+		(property "Sheetname" "MOTOR_DRIVER_M1"
+			(at 152.4 107.2384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "motor_driver_m1.kicad_sch"
+			(at 152.4 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 205.74 59.69)
+		(size 31.75 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "64f99ce7-5d0e-46b7-9d46-1702590521d7")
+		(property "Sheetname" "MOTOR_DRIVER_M4"
+			(at 205.74 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "motor_driver_m4.kicad_sch"
+			(at 205.74 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 91.44 109.22)
+		(size 29.21 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d06f5338-d839-45bd-ae1a-cb9d2da3e16c")
+		(property "Sheetname" "MCU"
+			(at 91.44 108.5084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 91.44 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 36.83 109.22)
+		(size 29.21 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d16f723d-eb96-498f-9f42-02a776bee3f3")
+		(property "Sheetname" "POWER CONN"
+			(at 36.83 108.5084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_conn.kicad_sch"
+			(at 36.83 132.6646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 207.01 107.95)
+		(size 31.75 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e38f1183-feeb-4e2e-a0f6-2b964e24b911")
+		(property "Sheetname" "MOTOR_DRIVER_M2"
+			(at 207.01 107.2384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "motor_driver_m2.kicad_sch"
+			(at 207.01 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

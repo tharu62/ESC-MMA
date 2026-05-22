@@ -1,0 +1,2357 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "38fd1556-0885-4f26-bc08-6ab6107d4e9b")
+	(paper "A4")
+	(lib_symbols
+		(symbol "easyeda2kicad:AON7400A"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 0 10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "AON7400A"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:PDFN-8_L3.3-W3.3-P0.65-BL"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/New-Arrivals_Alpha-Omega-Semicon-AOS-AON7400A_C85734.html"
+				(at 0 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "AOS"
+				(at 0 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "AON7400A"
+				(at 0 -20.32 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C85734"
+				(at 0 -22.86 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "MOSFETs"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "AON7400A_0_1"
+				(rectangle
+					(start -6.35 7.62)
+					(end 6.35 -7.62)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center -5.33 6.35)
+					(radius 0.38)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -8.89 2.54 0)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -8.89 0 0)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -8.89 -2.54 0)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -8.89 -5.08 0)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 8.89 5.08 180)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 8.89 2.54 180)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 8.89 0 180)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 8.89 -2.54 180)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 8.89 -5.08 180)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "easyeda2kicad:DRV8323RSRGZR"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 38.1 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "DRV8323RSRGZR"
+				(at 0 -35.56 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:VQFN-48_L7.0-W7.0-P0.50-TL-EP5.1"
+				(at 0 -38.1 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/datasheet/C545497.pdf"
+				(at 0 -40.64 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "TI(德州仪器)"
+				(at 0 -43.18 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "DRV8323RSRGZR"
+				(at 0 -45.72 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C545497"
+				(at 0 -48.26 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "Motor Driver ICs"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "DRV8323RSRGZR_0_1"
+				(rectangle
+					(start -11.43 30.48)
+					(end 11.43 -33.02)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center -10.16 29.21)
+					(radius 0.38)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 27.94 0)
+					(length 2.54)
+					(name "FB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 25.4 0)
+					(length 2.54)
+					(name "PGND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 22.86 0)
+					(length 2.54)
+					(name "CPL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 20.32 0)
+					(length 2.54)
+					(name "CPH"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 17.78 0)
+					(length 2.54)
+					(name "VCP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 15.24 0)
+					(length 2.54)
+					(name "VM"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 12.7 0)
+					(length 2.54)
+					(name "VDRAIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 10.16 0)
+					(length 2.54)
+					(name "GHA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 7.62 0)
+					(length 2.54)
+					(name "SHA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 5.08 0)
+					(length 2.54)
+					(name "GLA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 2.54 0)
+					(length 2.54)
+					(name "SPA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 0 0)
+					(length 2.54)
+					(name "SNA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 -2.54 0)
+					(length 2.54)
+					(name "SNB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 -5.08 0)
+					(length 2.54)
+					(name "SPB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 -7.62 0)
+					(length 2.54)
+					(name "GLB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 -10.16 0)
+					(length 2.54)
+					(name "SHB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 -12.7 0)
+					(length 2.54)
+					(name "GHB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 -15.24 0)
+					(length 2.54)
+					(name "GHC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 -17.78 0)
+					(length 2.54)
+					(name "SHC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 -20.32 0)
+					(length 2.54)
+					(name "GLC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 -22.86 0)
+					(length 2.54)
+					(name "SPC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 -25.4 0)
+					(length 2.54)
+					(name "SNC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 -27.94 0)
+					(length 2.54)
+					(name "SOC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -13.97 -30.48 0)
+					(length 2.54)
+					(name "SOB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 33.02 270)
+					(length 2.54)
+					(name "EP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "49"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 27.94 180)
+					(length 2.54)
+					(name "nSHDN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "48"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 25.4 180)
+					(length 2.54)
+					(name "VIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "47"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 22.86 180)
+					(length 2.54)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "46"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 20.32 180)
+					(length 2.54)
+					(name "SW"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "45"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 17.78 180)
+					(length 2.54)
+					(name "CB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "44"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 15.24 180)
+					(length 2.54)
+					(name "BGND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "43"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 12.7 180)
+					(length 2.54)
+					(name "INLC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "42"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 10.16 180)
+					(length 2.54)
+					(name "INHC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "41"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 7.62 180)
+					(length 2.54)
+					(name "INLB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "40"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 5.08 180)
+					(length 2.54)
+					(name "INHB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "39"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 2.54 180)
+					(length 2.54)
+					(name "INLA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "38"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 0 180)
+					(length 2.54)
+					(name "INHA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 -2.54 180)
+					(length 2.54)
+					(name "DVDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "36"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 -5.08 180)
+					(length 2.54)
+					(name "AGND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 -7.62 180)
+					(length 2.54)
+					(name "CAL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 -10.16 180)
+					(length 2.54)
+					(name "ENABLE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "33"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 -12.7 180)
+					(length 2.54)
+					(name "nSCS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 -15.24 180)
+					(length 2.54)
+					(name "SCLK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 -17.78 180)
+					(length 2.54)
+					(name "SDI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 -20.32 180)
+					(length 2.54)
+					(name "SDO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 -22.86 180)
+					(length 2.54)
+					(name "nFAULT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 -25.4 180)
+					(length 2.54)
+					(name "DGND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 -27.94 180)
+					(length 2.54)
+					(name "VREF"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 13.97 -30.48 180)
+					(length 2.54)
+					(name "SOA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(global_label "SDO"
+		(shape input)
+		(at 91.44 99.06 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1d607d61-92e4-48e1-86b6-e0cd35bbb3e4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 98.2352 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "INHB_M1"
+		(shape input)
+		(at 91.44 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2420493a-780d-4da3-a07f-66f0009c5c5c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.5895 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "INHC_M1"
+		(shape input)
+		(at 91.44 68.58 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "244ae557-d163-4447-b993-c04cf89b2fad")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.5895 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SDI"
+		(shape input)
+		(at 91.44 96.52 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "634e37fd-f791-45be-bbee-78d5103e75b4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.5095 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SCLK"
+		(shape input)
+		(at 91.44 93.98 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "94465787-bcbd-4eb8-ac4c-9896da416f1a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 99.2028 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "INHA_M1"
+		(shape input)
+		(at 91.44 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b51537d9-a884-4b04-b0d8-62997df040f4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.4081 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CS_M1"
+		(shape input)
+		(at 91.44 91.44 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b597711f-ad9a-4b19-b819-2e038218c639")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.5332 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:AON7400A")
+		(at 255.27 87.63 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1fcd6251-32f5-4176-8983-a136ff7c2ddf")
+		(property "Reference" "Q6"
+			(at 255.27 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AON7400A"
+			(at 255.27 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:PDFN-8_L3.3-W3.3-P0.65-BL"
+			(at 255.27 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/New-Arrivals_Alpha-Omega-Semicon-AOS-AON7400A_C85734.html"
+			(at 255.27 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 255.27 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AOS"
+			(at 255.27 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "AON7400A"
+			(at 255.27 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C85734"
+			(at 255.27 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "22fcc4ab-7525-4e04-9765-3793c0d74ef3")
+		)
+		(pin "1"
+			(uuid "9e2ae785-f372-41e5-ac84-547e43f71350")
+		)
+		(pin "2"
+			(uuid "76d9f076-49be-440f-82a5-0bba290e9461")
+		)
+		(pin "3"
+			(uuid "60511ed1-97ca-4054-9093-2957ce30aa47")
+		)
+		(pin "4"
+			(uuid "cdba7066-3a70-456a-bcbe-cf8ba7aee715")
+		)
+		(pin "9"
+			(uuid "b6f46f35-a151-447b-81b8-c36cc6fd191b")
+		)
+		(pin "7"
+			(uuid "992fb17e-2888-4f59-bf20-361c147dbca4")
+		)
+		(pin "6"
+			(uuid "71635cc1-66c8-4682-a8c6-da793f35b67f")
+		)
+		(pin "5"
+			(uuid "ad0dc8e4-3587-460f-acdd-2e91c3805d4d")
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/63f0bd9c-70c2-4847-814d-8da099671243"
+					(reference "Q6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:DRV8323RSRGZR")
+		(at 77.47 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4ca9bfd4-f5f9-4685-baf0-072afe8e3fbb")
+		(property "Reference" "U5"
+			(at 77.47 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "DRV8323RSRGZR"
+			(at 77.47 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:VQFN-48_L7.0-W7.0-P0.50-TL-EP5.1"
+			(at 77.47 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C545497.pdf"
+			(at 77.47 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 77.47 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TI(德州仪器)"
+			(at 77.47 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "DRV8323RSRGZR"
+			(at 77.47 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C545497"
+			(at 77.47 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "60fc7489-8956-449d-93bb-837d505381b9")
+		)
+		(pin "6"
+			(uuid "2aa28f7a-c733-4f9a-9388-cd8a9b5a197b")
+		)
+		(pin "3"
+			(uuid "db5447b9-6fe4-4be5-bd45-fe06d448a8de")
+		)
+		(pin "1"
+			(uuid "6dc9d65b-575f-4fe4-8a92-86dc9a79f3c6")
+		)
+		(pin "4"
+			(uuid "54ee3837-06bb-4666-a905-245f5b1f359a")
+		)
+		(pin "5"
+			(uuid "e35fe9f2-f5f3-4ddd-840e-36c8732a175f")
+		)
+		(pin "7"
+			(uuid "ece3d72e-ef25-4e7d-9392-886041411dca")
+		)
+		(pin "8"
+			(uuid "741e77b9-1be2-492b-8d8c-d4688ce07d47")
+		)
+		(pin "9"
+			(uuid "298d6106-0f48-4eb2-9d25-deb159048bd6")
+		)
+		(pin "13"
+			(uuid "f84a7824-fc14-4d3b-9959-438344c9d6e3")
+		)
+		(pin "19"
+			(uuid "13f5bb88-c521-4541-9b65-cecaaeeac6cf")
+		)
+		(pin "39"
+			(uuid "2db50771-9767-4469-a48b-ee56cdcc6e62")
+		)
+		(pin "46"
+			(uuid "b9f62c52-0e29-4d94-9842-92e5e0c07f7b")
+		)
+		(pin "36"
+			(uuid "affc29ad-0069-45b2-97e6-b25b69801660")
+		)
+		(pin "10"
+			(uuid "d87b197f-dc9a-4b27-b256-c9e7c74f11b4")
+		)
+		(pin "16"
+			(uuid "8f9f804d-40c1-4e31-ad81-4a85311bab10")
+		)
+		(pin "21"
+			(uuid "7f3dca57-1421-47ab-85d7-d749090cdfa1")
+		)
+		(pin "22"
+			(uuid "3fcbe35c-7c2e-4e3d-8306-c6a3cbabdacc")
+		)
+		(pin "24"
+			(uuid "fd09da39-79e5-4446-ac80-92698eb94ad0")
+		)
+		(pin "18"
+			(uuid "38f68aff-bc8c-4a3d-a14a-cb75c6f0d13a")
+		)
+		(pin "23"
+			(uuid "c629e765-39f3-4099-87fe-97ef13dd007c")
+		)
+		(pin "49"
+			(uuid "c2b519ba-2c0c-4a74-8f5e-0f68259f9079")
+		)
+		(pin "48"
+			(uuid "f95fbb6e-4655-4fa9-9649-e0bad31a7e4e")
+		)
+		(pin "14"
+			(uuid "ad693b06-bb4b-4ad7-9c4a-a97c5b522cd8")
+		)
+		(pin "45"
+			(uuid "b5776202-8495-48d4-8fad-5765de65cf20")
+		)
+		(pin "43"
+			(uuid "b7d87d89-4b2b-4587-a33d-ce1f5eaedb7b")
+		)
+		(pin "20"
+			(uuid "172fdbcf-397e-4ae5-aaf6-592c4d37f9a0")
+		)
+		(pin "15"
+			(uuid "e4a7984f-df8b-40d0-9232-c5c9dd0546f4")
+		)
+		(pin "47"
+			(uuid "7aff47d3-e3be-4805-bae9-19a7b81aadac")
+		)
+		(pin "17"
+			(uuid "6ddd4481-2040-4841-9c83-1e3bd3baf07e")
+		)
+		(pin "12"
+			(uuid "4dce239d-e5c9-41e2-8c21-5801819b5874")
+		)
+		(pin "11"
+			(uuid "58e3b0e2-ad8d-4e07-9920-36d1a0ae91d5")
+		)
+		(pin "44"
+			(uuid "985334d7-1e80-4cdc-8031-81d8607f80f2")
+		)
+		(pin "42"
+			(uuid "deaa8312-7aaf-476e-9fac-072abff01f98")
+		)
+		(pin "41"
+			(uuid "6bc7426a-ac7d-41b3-93e8-d0a4a5c49e1d")
+		)
+		(pin "40"
+			(uuid "ac584933-4304-4285-907a-c078fe16bafa")
+		)
+		(pin "38"
+			(uuid "4be9464c-29e4-4eb1-b32f-b7ed6c383744")
+		)
+		(pin "37"
+			(uuid "0a0cd095-6f32-4678-bb30-60c560497fe0")
+		)
+		(pin "31"
+			(uuid "8d6592eb-e968-454c-b15c-3c1cb28ea23f")
+		)
+		(pin "27"
+			(uuid "6c99c770-53bd-42df-9568-faf1365c5fc0")
+		)
+		(pin "28"
+			(uuid "d99b2e13-6695-478c-9426-56a7c111226f")
+		)
+		(pin "25"
+			(uuid "71641ebe-421a-4ece-8b02-d3155a53dad3")
+		)
+		(pin "30"
+			(uuid "36b335ec-c18f-4559-bd45-8655303872e4")
+		)
+		(pin "35"
+			(uuid "3b4d0234-8a56-47ab-b68b-b12dc0a84338")
+		)
+		(pin "34"
+			(uuid "d9a7df4d-8ffa-4495-ad00-23ddf6c8e39d")
+		)
+		(pin "29"
+			(uuid "7680f9a3-89cf-4ea4-87eb-923e0177befd")
+		)
+		(pin "26"
+			(uuid "76e14916-f92d-4c48-8a7a-45cb1ceefe3c")
+		)
+		(pin "32"
+			(uuid "a781016f-e30a-42dd-bd95-f962059847e7")
+		)
+		(pin "33"
+			(uuid "9bf6cbe2-6379-47ad-8591-6de29f6563dd")
+		)
+		(instances
+			(project ""
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/63f0bd9c-70c2-4847-814d-8da099671243"
+					(reference "U5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:AON7400A")
+		(at 219.71 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5dd0a91a-1de1-42b2-b2f9-d7c5d85a1eda")
+		(property "Reference" "Q3"
+			(at 219.71 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AON7400A"
+			(at 219.71 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:PDFN-8_L3.3-W3.3-P0.65-BL"
+			(at 219.71 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/New-Arrivals_Alpha-Omega-Semicon-AOS-AON7400A_C85734.html"
+			(at 219.71 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 219.71 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AOS"
+			(at 219.71 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "AON7400A"
+			(at 219.71 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C85734"
+			(at 219.71 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "d37f960b-6520-4653-80bd-b35eb765703b")
+		)
+		(pin "1"
+			(uuid "6afbf8a7-1eb4-444f-a973-535cac3de348")
+		)
+		(pin "2"
+			(uuid "6d18ec69-4ed0-4f6b-b324-ef0522db7215")
+		)
+		(pin "3"
+			(uuid "e32e3625-8cde-45ad-873d-8fe271a0c2a8")
+		)
+		(pin "4"
+			(uuid "d1aeb00b-97cd-4bfa-ac5b-fb5d7e39782e")
+		)
+		(pin "9"
+			(uuid "4f63e1fc-d660-40c8-b935-877e34edd33f")
+		)
+		(pin "7"
+			(uuid "852d64db-8ee1-4241-95d4-7d45ae9f1458")
+		)
+		(pin "6"
+			(uuid "296d66d0-bf78-4605-b22b-59667589c782")
+		)
+		(pin "5"
+			(uuid "31f8b101-3726-4a8b-b737-a6927741a337")
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/63f0bd9c-70c2-4847-814d-8da099671243"
+					(reference "Q3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:AON7400A")
+		(at 255.27 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "764525e5-b2cc-4c20-93a4-6f4af25bc4a8")
+		(property "Reference" "Q5"
+			(at 255.27 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AON7400A"
+			(at 255.27 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:PDFN-8_L3.3-W3.3-P0.65-BL"
+			(at 255.27 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/New-Arrivals_Alpha-Omega-Semicon-AOS-AON7400A_C85734.html"
+			(at 255.27 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 255.27 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AOS"
+			(at 255.27 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "AON7400A"
+			(at 255.27 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C85734"
+			(at 255.27 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "6dd76655-359c-44c8-bac2-5f8f6b541ac8")
+		)
+		(pin "1"
+			(uuid "c4380099-663b-454c-883e-0bbf8edc7d28")
+		)
+		(pin "2"
+			(uuid "db1a7a0e-f907-4735-a65d-882c4d202055")
+		)
+		(pin "3"
+			(uuid "8960617e-df3c-4588-a1b0-8015cc4ef7c8")
+		)
+		(pin "4"
+			(uuid "c2130d09-e8bf-481b-9108-668268caeb13")
+		)
+		(pin "9"
+			(uuid "379889b4-49c3-4854-80c8-42a7066d7885")
+		)
+		(pin "7"
+			(uuid "df4882e1-de1e-430e-86c7-57b80da21ca6")
+		)
+		(pin "6"
+			(uuid "3c237214-1424-4529-941f-8a283d560304")
+		)
+		(pin "5"
+			(uuid "4f8d11f2-487c-4c0b-bc56-9eb847543f9f")
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/63f0bd9c-70c2-4847-814d-8da099671243"
+					(reference "Q5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:AON7400A")
+		(at 185.42 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8c54ac35-4e57-41f7-92da-41cf33527b74")
+		(property "Reference" "Q1"
+			(at 185.42 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AON7400A"
+			(at 185.42 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:PDFN-8_L3.3-W3.3-P0.65-BL"
+			(at 185.42 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/New-Arrivals_Alpha-Omega-Semicon-AOS-AON7400A_C85734.html"
+			(at 185.42 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AOS"
+			(at 185.42 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "AON7400A"
+			(at 185.42 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C85734"
+			(at 185.42 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "0f6ef223-d5e1-4441-92d3-75df9179eb92")
+		)
+		(pin "1"
+			(uuid "0c7e1576-bb53-41d0-bbb8-c503920ce1ed")
+		)
+		(pin "2"
+			(uuid "96911fb3-448d-4852-911e-6e94750e03fe")
+		)
+		(pin "3"
+			(uuid "8201ac4e-d4f8-48fe-8c30-761302ee5093")
+		)
+		(pin "4"
+			(uuid "8a703566-fea3-4eae-adec-39ee04ed59c2")
+		)
+		(pin "9"
+			(uuid "94fcf260-8d5d-4152-b1c7-206a322afed2")
+		)
+		(pin "7"
+			(uuid "dd4aeea7-03b4-4f35-ae8b-f1f3fe1aae65")
+		)
+		(pin "6"
+			(uuid "3d5bf62b-5526-4bf3-aba6-908a28c32712")
+		)
+		(pin "5"
+			(uuid "c0a28038-7842-413d-8bcb-de368b7f539f")
+		)
+		(instances
+			(project ""
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/63f0bd9c-70c2-4847-814d-8da099671243"
+					(reference "Q1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:AON7400A")
+		(at 219.71 87.63 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "93ac8a32-0942-49c9-8b4f-1542124ef9a3")
+		(property "Reference" "Q4"
+			(at 219.71 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AON7400A"
+			(at 219.71 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:PDFN-8_L3.3-W3.3-P0.65-BL"
+			(at 219.71 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/New-Arrivals_Alpha-Omega-Semicon-AOS-AON7400A_C85734.html"
+			(at 219.71 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 219.71 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AOS"
+			(at 219.71 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "AON7400A"
+			(at 219.71 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C85734"
+			(at 219.71 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "198bae8c-453c-474f-b9b5-4470f01ff24c")
+		)
+		(pin "1"
+			(uuid "350b8c86-a2b3-41ec-be04-2a8505fe6a4a")
+		)
+		(pin "2"
+			(uuid "82dac4db-1030-4ef9-970d-082a9e6f5ff3")
+		)
+		(pin "3"
+			(uuid "e7656624-8dc7-4d8e-98ca-d19cf9cf4190")
+		)
+		(pin "4"
+			(uuid "d33e42de-e2bd-4074-8d26-32a040ce3e83")
+		)
+		(pin "9"
+			(uuid "7f199ccc-f15c-4686-9242-1cc27e36c9d0")
+		)
+		(pin "7"
+			(uuid "82e3fd5f-a56e-48aa-9c78-5ae965b372b6")
+		)
+		(pin "6"
+			(uuid "a15034db-3043-4366-bb99-5c94d6e065af")
+		)
+		(pin "5"
+			(uuid "c776bbe4-f24f-41d4-bc8d-418951f4844c")
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/63f0bd9c-70c2-4847-814d-8da099671243"
+					(reference "Q4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:AON7400A")
+		(at 184.15 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bcc3a70f-6be1-4dba-8dde-7a10be84a003")
+		(property "Reference" "Q2"
+			(at 184.15 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AON7400A"
+			(at 184.15 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:PDFN-8_L3.3-W3.3-P0.65-BL"
+			(at 184.15 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/New-Arrivals_Alpha-Omega-Semicon-AOS-AON7400A_C85734.html"
+			(at 184.15 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 184.15 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AOS"
+			(at 184.15 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "AON7400A"
+			(at 184.15 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C85734"
+			(at 184.15 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "a2bf104c-5f17-4998-ad91-aa600d18accd")
+		)
+		(pin "1"
+			(uuid "dfe70413-d91f-47aa-9511-be986a67abb8")
+		)
+		(pin "2"
+			(uuid "f4631a91-b740-493e-9e22-a5722ce2bad6")
+		)
+		(pin "3"
+			(uuid "fa1e4749-18a1-4259-a421-f4790f2215e0")
+		)
+		(pin "4"
+			(uuid "5373200f-3159-446e-b798-2e68971fd3b8")
+		)
+		(pin "9"
+			(uuid "72497edd-f898-49d2-9cb9-c03e2a34cd84")
+		)
+		(pin "7"
+			(uuid "f1680e88-960d-4ac7-aab8-25486aed7d0c")
+		)
+		(pin "6"
+			(uuid "87f5dd5c-ad85-4cce-9884-b31ce1153a16")
+		)
+		(pin "5"
+			(uuid "69c88a62-903a-47d0-bfeb-8697d2a9152d")
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/63f0bd9c-70c2-4847-814d-8da099671243"
+					(reference "Q2")
+					(unit 1)
+				)
+			)
+		)
+	)
+)

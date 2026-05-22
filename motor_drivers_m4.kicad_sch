@@ -1,0 +1,1687 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "38fd1556-0885-4f26-bc08-6ab6107d4e9b")
+	(paper "A4")
+	(lib_symbols
+		(symbol "easyeda2kicad:BSC020N03LS-G"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 0 10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "BSC020N03LS-G"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:DFN-8_L5.9-W5.2-P1.27-LS6.2-BL"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/MOSFET_Infineon-Technologies-BSC020N03LS-G_C386344.html"
+				(at 0 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Infineon(英飞凌)"
+				(at 0 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "BSC020N03LS G"
+				(at 0 -20.32 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C386344"
+				(at 0 -22.86 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "MOSFETs"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "BSC020N03LS-G_0_1"
+				(rectangle
+					(start -3.81 7.62)
+					(end 3.81 -7.62)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center -1.27 6.35)
+					(radius 0.38)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -6.35 3.81 0)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -6.35 1.27 0)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -6.35 -1.27 0)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -6.35 -3.81 0)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 6.35 5.08 180)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 6.35 2.54 180)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 6.35 0 180)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 6.35 -2.54 180)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 6.35 -5.08 180)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "easyeda2kicad:TLV3501AIDBVR"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TLV3501AIDBVR"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/Others_Texas-Instruments_TLV3501AIDBVR_Texas-Instruments-TI-TLV3501AIDBVR_C193413.html"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "TI(德州仪器)"
+				(at 0 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "TLV3501AIDBVR"
+				(at 0 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C193413"
+				(at 0 -20.32 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "Comparators"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TLV3501AIDBVR_0_1"
+				(rectangle
+					(start -10.16 5.08)
+					(end 10.16 -5.08)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center -8.89 3.81)
+					(radius 0.38)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -12.7 2.54 0)
+					(length 2.54)
+					(name "-IN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -12.7 0 0)
+					(length 2.54)
+					(name "V-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -12.7 -2.54 0)
+					(length 2.54)
+					(name "+IN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 12.7 2.54 180)
+					(length 2.54)
+					(name "SHDN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 12.7 0 180)
+					(length 2.54)
+					(name "OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 12.7 -2.54 180)
+					(length 2.54)
+					(name "V+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "easyeda2kicad:UCC27211ADRMR"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "UCC27211ADRMR"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:VSON-8_L4.0-W4.0-P0.80-TL-EP"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/datasheet/C1848363.pdf"
+				(at 0 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "TI(德州仪器)"
+				(at 0 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "UCC27211ADRMR"
+				(at 0 -20.32 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C1848363"
+				(at 0 -22.86 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "Pre-ordered Chips"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "UCC27211ADRMR_0_1"
+				(rectangle
+					(start -6.35 6.35)
+					(end 6.35 -7.62)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center -5.08 5.08)
+					(radius 0.38)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -8.89 2.54 0)
+					(length 2.54)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -8.89 0 0)
+					(length 2.54)
+					(name "HB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -8.89 -2.54 0)
+					(length 2.54)
+					(name "HO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -8.89 -5.08 0)
+					(length 2.54)
+					(name "HS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 8.89 5.08 180)
+					(length 2.54)
+					(name "EP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 8.89 2.54 180)
+					(length 2.54)
+					(name "LO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 8.89 0 180)
+					(length 2.54)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 8.89 -2.54 180)
+					(length 2.54)
+					(name "LI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 8.89 -5.08 180)
+					(length 2.54)
+					(name "HI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:BSC020N03LS-G")
+		(at 201.93 55.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0b1a2013-cc0b-48d5-a3b8-229ed1670b76")
+		(property "Reference" "Q19"
+			(at 201.93 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BSC020N03LS-G"
+			(at 201.93 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:DFN-8_L5.9-W5.2-P1.27-LS6.2-BL"
+			(at 201.93 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/MOSFET_Infineon-Technologies-BSC020N03LS-G_C386344.html"
+			(at 201.93 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 201.93 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Infineon(英飞凌)"
+			(at 201.93 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BSC020N03LS G"
+			(at 201.93 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C386344"
+			(at 201.93 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "9"
+			(uuid "9c9675f3-4e8c-41ac-9eac-4dc8e95ae9b0")
+		)
+		(pin "1"
+			(uuid "1f58cca3-c0d6-4971-9197-8ed44df5eec9")
+		)
+		(pin "6"
+			(uuid "04375933-2d5a-4b43-9c8b-7ac607bf2d7b")
+		)
+		(pin "5"
+			(uuid "e8b6f11d-186f-429b-9ad6-9f443b6c3452")
+		)
+		(pin "4"
+			(uuid "794a7000-0348-490d-a962-ae65014e3500")
+		)
+		(pin "7"
+			(uuid "1d9271a0-dc95-4876-942b-ba27ae7eb76d")
+		)
+		(pin "2"
+			(uuid "34b5e9ad-60ae-467d-8682-0ff018f5ab80")
+		)
+		(pin "3"
+			(uuid "77e9e80d-5b05-4f8d-b407-21f6bf47ceec")
+		)
+		(pin "8"
+			(uuid "90059523-acd9-4cd6-bffb-e6f6b9fe1688")
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/2a7a5977-05cf-4106-a5e1-fc6df8777b93"
+					(reference "Q19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:BSC020N03LS-G")
+		(at 227.33 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "17938fbf-8a2f-4977-92f4-7ade672d7011")
+		(property "Reference" "Q22"
+			(at 227.33 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BSC020N03LS-G"
+			(at 227.33 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:DFN-8_L5.9-W5.2-P1.27-LS6.2-BL"
+			(at 227.33 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/MOSFET_Infineon-Technologies-BSC020N03LS-G_C386344.html"
+			(at 227.33 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 227.33 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Infineon(英飞凌)"
+			(at 227.33 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BSC020N03LS G"
+			(at 227.33 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C386344"
+			(at 227.33 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "9"
+			(uuid "fa6df06f-3305-4f8d-9bd7-9af1df4cce81")
+		)
+		(pin "1"
+			(uuid "02c26078-2f52-479e-9aa4-2330bfc9b257")
+		)
+		(pin "6"
+			(uuid "fa64ffe4-b1c3-453c-9176-db10fd7e198f")
+		)
+		(pin "5"
+			(uuid "16de9a8e-e3c3-4eda-b445-d61393311d54")
+		)
+		(pin "4"
+			(uuid "df473cd3-72a9-4a98-821e-e0174857ec2d")
+		)
+		(pin "7"
+			(uuid "e9246e7f-62a6-41ff-aaff-6f700d7f27d8")
+		)
+		(pin "2"
+			(uuid "53adab92-a188-4cef-bee8-34decc64d45d")
+		)
+		(pin "3"
+			(uuid "46f07c2e-703e-4f04-86b4-6bf471be510e")
+		)
+		(pin "8"
+			(uuid "6eb08378-a57f-4ffa-9037-e6c94fe477ba")
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/2a7a5977-05cf-4106-a5e1-fc6df8777b93"
+					(reference "Q22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:BSC020N03LS-G")
+		(at 251.46 55.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1b5c031d-4c7e-42eb-944c-048f7f2da1f6")
+		(property "Reference" "Q23"
+			(at 251.46 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BSC020N03LS-G"
+			(at 251.46 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:DFN-8_L5.9-W5.2-P1.27-LS6.2-BL"
+			(at 251.46 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/MOSFET_Infineon-Technologies-BSC020N03LS-G_C386344.html"
+			(at 251.46 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 251.46 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Infineon(英飞凌)"
+			(at 251.46 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BSC020N03LS G"
+			(at 251.46 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C386344"
+			(at 251.46 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "9"
+			(uuid "6561f520-812f-4643-9346-19f23b99b749")
+		)
+		(pin "1"
+			(uuid "1e17dade-f021-4c8f-b9c5-38553118f6d0")
+		)
+		(pin "6"
+			(uuid "c32c1c49-5582-44bf-b481-7d7233e2f5d3")
+		)
+		(pin "5"
+			(uuid "b2c6825a-ebff-4a65-82f0-a3b3730e63ce")
+		)
+		(pin "4"
+			(uuid "54ca7c20-8e00-4a10-b004-d1b76ac90a31")
+		)
+		(pin "7"
+			(uuid "bac018a4-d197-4f74-8da9-96229d6551d5")
+		)
+		(pin "2"
+			(uuid "4d11b568-9d79-4b83-9bc1-e80254363900")
+		)
+		(pin "3"
+			(uuid "8189c6fb-13ec-402d-909a-7804ae437f7b")
+		)
+		(pin "8"
+			(uuid "311fba22-0959-495a-a178-85dd723de742")
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/2a7a5977-05cf-4106-a5e1-fc6df8777b93"
+					(reference "Q23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:BSC020N03LS-G")
+		(at 203.2 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "34702f18-7769-428c-ae1f-90f288143aa3")
+		(property "Reference" "Q20"
+			(at 203.2 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BSC020N03LS-G"
+			(at 203.2 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:DFN-8_L5.9-W5.2-P1.27-LS6.2-BL"
+			(at 203.2 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/MOSFET_Infineon-Technologies-BSC020N03LS-G_C386344.html"
+			(at 203.2 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 203.2 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Infineon(英飞凌)"
+			(at 203.2 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BSC020N03LS G"
+			(at 203.2 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C386344"
+			(at 203.2 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "9"
+			(uuid "740b784c-91ed-4467-8b79-5166e8baeafa")
+		)
+		(pin "1"
+			(uuid "291dfc8d-ee95-4e89-b1f5-fc2bb83b8f44")
+		)
+		(pin "6"
+			(uuid "74565142-4e62-4d43-ba8e-7b087ae88881")
+		)
+		(pin "5"
+			(uuid "7f3941e1-ba1c-488f-a957-64442ea3cf5c")
+		)
+		(pin "4"
+			(uuid "5239afc6-0339-4264-9d38-27e0722425f5")
+		)
+		(pin "7"
+			(uuid "a308cde7-329d-4214-b169-969a5ad811be")
+		)
+		(pin "2"
+			(uuid "c0f7d12c-a025-430c-b85b-1b84b2a966e4")
+		)
+		(pin "3"
+			(uuid "14346301-b415-4367-a8f2-442d0d4ed70c")
+		)
+		(pin "8"
+			(uuid "6e732bbf-3fd0-4e87-9d1c-d27305befb51")
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/2a7a5977-05cf-4106-a5e1-fc6df8777b93"
+					(reference "Q20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:BSC020N03LS-G")
+		(at 251.46 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8d5e9645-d946-490f-9896-9e6e62442924")
+		(property "Reference" "Q24"
+			(at 251.46 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BSC020N03LS-G"
+			(at 251.46 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:DFN-8_L5.9-W5.2-P1.27-LS6.2-BL"
+			(at 251.46 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/MOSFET_Infineon-Technologies-BSC020N03LS-G_C386344.html"
+			(at 251.46 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 251.46 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Infineon(英飞凌)"
+			(at 251.46 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BSC020N03LS G"
+			(at 251.46 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C386344"
+			(at 251.46 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "9"
+			(uuid "a675da87-8d88-4274-aaec-d8ccd1b1056c")
+		)
+		(pin "1"
+			(uuid "3ef59e47-41cd-4eed-8fe1-d76cf5e5d0c8")
+		)
+		(pin "6"
+			(uuid "9d52d27c-ae28-4079-8e10-bbed941a6894")
+		)
+		(pin "5"
+			(uuid "a95f950c-7c78-4f1e-bfc9-7d80cf6bf593")
+		)
+		(pin "4"
+			(uuid "b9c549e0-674d-4932-afef-89aa7702cef9")
+		)
+		(pin "7"
+			(uuid "7aa47a21-eb01-44b6-a3f6-0196c06cd99d")
+		)
+		(pin "2"
+			(uuid "58797eb8-971a-4d02-9722-f02566563834")
+		)
+		(pin "3"
+			(uuid "f483d191-2f70-4c59-a7f9-1c19f993fee8")
+		)
+		(pin "8"
+			(uuid "97c4dbb6-f169-427d-bb35-fa145b93cba8")
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/2a7a5977-05cf-4106-a5e1-fc6df8777b93"
+					(reference "Q24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:TLV3501AIDBVR")
+		(at 147.32 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cc5cc2c9-8062-4043-a7ef-5356a30b25ce")
+		(property "Reference" "U9"
+			(at 147.32 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TLV3501AIDBVR"
+			(at 147.32 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR"
+			(at 147.32 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Others_Texas-Instruments_TLV3501AIDBVR_Texas-Instruments-TI-TLV3501AIDBVR_C193413.html"
+			(at 147.32 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 147.32 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TI(德州仪器)"
+			(at 147.32 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TLV3501AIDBVR"
+			(at 147.32 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C193413"
+			(at 147.32 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "abeeb2ea-7aa1-4d1a-b6cd-c11a3e4038aa")
+		)
+		(pin "2"
+			(uuid "e944f5dd-a198-4995-8b4b-f01894f53830")
+		)
+		(pin "3"
+			(uuid "97ea6f41-29b9-4f04-abe0-082c5bd81e0e")
+		)
+		(pin "6"
+			(uuid "0c9eea35-fe10-4fd6-89a2-d7b29607d462")
+		)
+		(pin "5"
+			(uuid "2ae8a96c-16ff-43ee-8026-0ba93bebbfda")
+		)
+		(pin "1"
+			(uuid "3a81a7d6-7200-45fa-a90f-2e36afe96297")
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/2a7a5977-05cf-4106-a5e1-fc6df8777b93"
+					(reference "U9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:BSC020N03LS-G")
+		(at 227.33 55.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d2556ecb-5a17-44e0-bf67-4da5c26c4de3")
+		(property "Reference" "Q21"
+			(at 227.33 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BSC020N03LS-G"
+			(at 227.33 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:DFN-8_L5.9-W5.2-P1.27-LS6.2-BL"
+			(at 227.33 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/MOSFET_Infineon-Technologies-BSC020N03LS-G_C386344.html"
+			(at 227.33 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 227.33 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Infineon(英飞凌)"
+			(at 227.33 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BSC020N03LS G"
+			(at 227.33 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C386344"
+			(at 227.33 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "9"
+			(uuid "cb3dd673-f0bb-45a9-a0d4-3589f98062db")
+		)
+		(pin "1"
+			(uuid "efc798ac-794a-45d5-bfcd-f0ff66f62bf4")
+		)
+		(pin "6"
+			(uuid "11e64b6b-5333-4b20-928e-ba217c964818")
+		)
+		(pin "5"
+			(uuid "8900dd72-5e3f-4ddf-8f9e-0ba9764c00c4")
+		)
+		(pin "4"
+			(uuid "7dd3c26d-e388-46a8-8949-2e4e3654f881")
+		)
+		(pin "7"
+			(uuid "14f76569-c62e-46e7-9984-bfb3881589d5")
+		)
+		(pin "2"
+			(uuid "eff278cb-5cdb-4b1a-bbc2-e0dd31c0165d")
+		)
+		(pin "3"
+			(uuid "d981d751-649b-427a-a001-2e32ef808709")
+		)
+		(pin "8"
+			(uuid "daa27fe3-d00d-4420-8e69-f8a922e31be2")
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/2a7a5977-05cf-4106-a5e1-fc6df8777b93"
+					(reference "Q21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:UCC27211ADRMR")
+		(at 60.96 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fe0833a0-3d4d-43ef-a5ed-055390539877")
+		(property "Reference" "U11"
+			(at 60.96 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "UCC27211ADRMR"
+			(at 60.96 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:VSON-8_L4.0-W4.0-P0.80-TL-EP"
+			(at 60.96 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C1848363.pdf"
+			(at 60.96 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 60.96 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TI(德州仪器)"
+			(at 60.96 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "UCC27211ADRMR"
+			(at 60.96 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C1848363"
+			(at 60.96 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "894b016c-a03e-44d1-b2a2-788a465a9a46")
+		)
+		(pin "3"
+			(uuid "6535828c-4425-4b7d-a4a4-4a028847a3bd")
+		)
+		(pin "4"
+			(uuid "9c551f0e-5137-4fc8-bc2b-d8e80a8418ee")
+		)
+		(pin "9"
+			(uuid "83249f39-d07d-4968-931d-a4cfe5e531d4")
+		)
+		(pin "8"
+			(uuid "1d86a60d-0acb-4275-99dc-af870a97f85b")
+		)
+		(pin "6"
+			(uuid "13ad1a70-84bf-4973-9bfa-70dd608d5a53")
+		)
+		(pin "5"
+			(uuid "67fd0d19-1c5a-4d0d-bcb1-759192e071d0")
+		)
+		(pin "7"
+			(uuid "4529e848-cec0-4f7d-8ac6-af63a9f97806")
+		)
+		(pin "2"
+			(uuid "44e95ef2-c5e3-4e6f-9187-ffb2222903d3")
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/2a7a5977-05cf-4106-a5e1-fc6df8777b93"
+					(reference "U11")
+					(unit 1)
+				)
+			)
+		)
+	)
+)
