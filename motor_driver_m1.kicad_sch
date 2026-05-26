@@ -1466,6 +1466,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "BEMF\n"
+		(exclude_from_sim no)
+		(at 30.48 149.86 0)
+		(size 119.38 43.18)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "a52382a3-b9b9-44ec-b971-4d5db0995378")
+	)
 	(junction
 		(at 118.11 173.99)
 		(diameter 0)
@@ -1731,6 +1751,16 @@
 			(type default)
 		)
 		(uuid "2a4d4770-ae36-4cca-a6ca-fe593f97981d")
+	)
+	(wire
+		(pts
+			(xy 96.52 133.35) (xy 96.52 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f56fdba-eaa6-4361-b204-04c282b2d4ea")
 	)
 	(wire
 		(pts
@@ -2041,6 +2071,16 @@
 			(type default)
 		)
 		(uuid "753cb702-aee5-4f80-82ab-c9ba2e9b5d41")
+	)
+	(wire
+		(pts
+			(xy 96.52 118.11) (xy 96.52 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "770b7864-4970-4afb-9229-0f10178a2a5f")
 	)
 	(wire
 		(pts
@@ -3873,6 +3913,28 @@
 		(uuid "a8dc83a5-9f6b-458e-a0c5-2095c09417f9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 200.5172 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "B+"
+		(shape input)
+		(at 96.52 118.11 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a9bbde3d-5ead-4cac-9b53-f21cc659d52f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 90.6924 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6595,6 +6657,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 96.52 133.35 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7c2a100a-e8e7-442c-9967-13326d391e88")
+		(property "Reference" "#PWR0122"
+			(at 96.52 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 98.552 138.176 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 96.52 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 96.52 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "85b2bfac-870c-4ef7-bc29-d99787df5365")
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/63f0bd9c-70c2-4847-814d-8da099671243"
+					(reference "#PWR0122")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
 		(at 43.18 128.27 0)
 		(unit 1)
@@ -8178,6 +8306,75 @@
 			(project "esc"
 				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/63f0bd9c-70c2-4847-814d-8da099671243"
 					(reference "#PWR047")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 96.52 125.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "daa51286-b507-429c-bbb2-fc8b2881f9c7")
+		(property "Reference" "C51"
+			(at 99.314 124.968 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 99.314 126.746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:C0603"
+			(at 97.4852 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 96.52 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 96.52 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bd20cb3a-cc53-45bc-9250-480152a1d2fb")
+		)
+		(pin "2"
+			(uuid "2e2d8f13-479f-404a-b95c-069e914de672")
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/63f0bd9c-70c2-4847-814d-8da099671243"
+					(reference "C51")
 					(unit 1)
 				)
 			)

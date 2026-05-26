@@ -1466,6 +1466,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "BEMF\n"
+		(exclude_from_sim no)
+		(at 29.21 130.81 0)
+		(size 119.38 43.18)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "0222c964-4154-491e-bfab-61a752b66b60")
+	)
 	(junction
 		(at 222.25 125.73)
 		(diameter 0)
@@ -2124,6 +2144,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 115.57) (xy 90.17 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c4fcbfc-9d36-4aa4-bcd9-01d0a19b0677")
+	)
+	(wire
+		(pts
 			(xy 39.37 152.4) (xy 39.37 153.67)
 		)
 		(stroke
@@ -2131,6 +2161,16 @@
 			(type default)
 		)
 		(uuid "6ed645a1-7371-49d2-8e39-5eff9c6dfc54")
+	)
+	(wire
+		(pts
+			(xy 90.17 100.33) (xy 90.17 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7307e4a4-34ce-4fad-b48a-8cdc50475ae0")
 	)
 	(wire
 		(pts
@@ -4066,6 +4106,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "B+"
+		(shape input)
+		(at 90.17 100.33 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ca6d86da-c23c-421e-ac4d-282497cc4259")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 84.3424 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -7201,6 +7263,72 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 90.17 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a1a451e7-38d9-45b8-8f58-d1f27221a019")
+		(property "Reference" "#PWR0123"
+			(at 90.17 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 92.202 120.396 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 90.17 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.17 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 90.17 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a2d378d7-a821-4bea-ba0f-461c2c26a4ff")
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/e38f1183-feeb-4e2e-a0f6-2b964e24b911"
+					(reference "#PWR0123")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 231.14 57.15 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7661,6 +7789,75 @@
 			(project "esc"
 				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/e38f1183-feeb-4e2e-a0f6-2b964e24b911"
 					(reference "C34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 90.17 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b9d17d81-56b7-4c94-bf95-4b9d4edf411a")
+		(property "Reference" "C52"
+			(at 92.964 107.188 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 92.964 108.966 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:C0603"
+			(at 91.1352 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 90.17 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 90.17 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b63821a2-8596-4364-ab7a-bf895ca1efd3")
+		)
+		(pin "2"
+			(uuid "52658c47-df12-421d-b619-84473c5f8e82")
+		)
+		(instances
+			(project "esc"
+				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/e38f1183-feeb-4e2e-a0f6-2b964e24b911"
+					(reference "C52")
 					(unit 1)
 				)
 			)
