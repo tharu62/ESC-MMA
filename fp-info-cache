@@ -1,4 +1,4 @@
-27394596475932343
+27396376192864593
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -108284,6 +108284,13 @@ Batt_Conn_HV
 2
 deshan
 Conn_1x1
+
+
+0
+1
+1
+deshan
+Conn_1x1_small
 
 
 0
