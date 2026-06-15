@@ -4,6 +4,10 @@
 	(generator_version "10.0")
 	(uuid "38fd1556-0885-4f26-bc08-6ab6107d4e9b")
 	(paper "A4")
+	(title_block
+		(title "MOTOR DRIVER M1")
+		(rev "1.0")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x01_Pin"
 			(pin_names
@@ -4155,6 +4159,30 @@
 			)
 		)
 	)
+	(global_label "DShot_M1"
+		(shape input)
+		(at 64.77 57.15 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "54c80f31-70d7-4a56-90ed-dff42c234361")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 52.6531 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "INH1_M1"
 		(shape input)
 		(at 66.04 120.65 180)
@@ -4347,7 +4375,7 @@
 			)
 		)
 	)
-	(global_label "PHASE_A_M1"
+	(global_label "PHASE_B_M1"
 		(shape input)
 		(at 64.77 62.23 180)
 		(fields_autoplaced yes)
@@ -4359,7 +4387,7 @@
 		)
 		(uuid "795d8e46-7975-4c84-9df1-f4940465ab0f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 50.0525 62.23 0)
+			(at 49.8711 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4659,7 +4687,7 @@
 			)
 		)
 	)
-	(global_label "PHASE_B_M1"
+	(global_label "PHASE_A_M1"
 		(shape input)
 		(at 64.77 59.69 180)
 		(fields_autoplaced yes)
@@ -4671,7 +4699,7 @@
 		)
 		(uuid "9f0092ac-a5b7-424f-9196-4966fb55b119")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.8711 59.69 0)
+			(at 50.0525 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5379,7 +5407,7 @@
 			)
 		)
 	)
-	(global_label "SWCLK"
+	(global_label "SWCLK_H"
 		(shape input)
 		(at 118.11 52.07 0)
 		(fields_autoplaced yes)
@@ -5391,7 +5419,7 @@
 		)
 		(uuid "f3edde73-dd40-4700-a806-24c9ed2ce652")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 127.3242 52.07 0)
+			(at 129.6223 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

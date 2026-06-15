@@ -4,6 +4,10 @@
 	(generator_version "10.0")
 	(uuid "38fd1556-0885-4f26-bc08-6ab6107d4e9b")
 	(paper "A4")
+	(title_block
+		(title "MOTOR DRIVER M4")
+		(rev "1.0")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x01_Pin"
 			(pin_names
@@ -3389,7 +3393,7 @@
 	)
 	(global_label "PHASE_C_M1"
 		(shape input)
-		(at 139.7 40.64 180)
+		(at 63.5 71.12 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3399,7 +3403,7 @@
 		)
 		(uuid "0d0e198a-7d0e-408b-a54c-ce98ee305a97")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 124.8011 40.64 0)
+			(at 48.6011 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3677,7 +3681,7 @@
 	)
 	(global_label "PHASE_B_M1"
 		(shape input)
-		(at 139.7 35.56 180)
+		(at 63.5 66.04 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3687,7 +3691,7 @@
 		)
 		(uuid "2b6d47db-c05b-4262-a535-71141ad9d9de")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 124.8011 35.56 0)
+			(at 48.6011 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3965,7 +3969,7 @@
 	)
 	(global_label "PHASE_A_M1"
 		(shape input)
-		(at 139.7 38.1 180)
+		(at 63.5 68.58 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3975,7 +3979,7 @@
 		)
 		(uuid "3dadaa2e-24c7-460d-9108-cc28fd1b9f09")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 124.9825 38.1 0)
+			(at 48.7825 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4416,6 +4420,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "DShot_M4"
+		(shape input)
+		(at 63.5 63.5 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6fb1853f-d5b1-4cdb-971e-b7c55f753840")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 51.3831 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -5187,7 +5215,7 @@
 			)
 		)
 	)
-	(global_label "SWCLK"
+	(global_label "SWCLK_L"
 		(shape input)
 		(at 116.84 58.42 0)
 		(fields_autoplaced yes)
@@ -5199,7 +5227,7 @@
 		)
 		(uuid "e602efd2-c658-46ee-921f-0882214f82d3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 126.0542 58.42 0)
+			(at 128.0499 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

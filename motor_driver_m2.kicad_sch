@@ -4,6 +4,10 @@
 	(generator_version "10.0")
 	(uuid "38fd1556-0885-4f26-bc08-6ab6107d4e9b")
 	(paper "A4")
+	(title_block
+		(title "MOTOR DRIVER M2")
+		(rev "1.0")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x01_Pin"
 			(pin_names
@@ -3797,7 +3801,7 @@
 	)
 	(global_label "PHASE_A_M1"
 		(shape input)
-		(at 135.89 27.94 180)
+		(at 59.69 58.42 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3807,7 +3811,7 @@
 		)
 		(uuid "4821d973-a084-4ace-b9ca-8f56849fe557")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 121.1725 27.94 0)
+			(at 44.9725 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3821,7 +3825,7 @@
 	)
 	(global_label "PHASE_B_M1"
 		(shape input)
-		(at 135.89 25.4 180)
+		(at 59.69 55.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3831,7 +3835,7 @@
 		)
 		(uuid "496e4e6b-b9b6-4fc3-8fcc-397aa9623288")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 120.9911 25.4 0)
+			(at 44.7911 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4371,7 +4375,7 @@
 			)
 		)
 	)
-	(global_label "SWCLK"
+	(global_label "SWCLK_L"
 		(shape input)
 		(at 113.03 48.26 0)
 		(fields_autoplaced yes)
@@ -4383,7 +4387,7 @@
 		)
 		(uuid "964a42e7-f5ae-495b-8fd4-2d68ff5dbc51")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 122.2442 48.26 0)
+			(at 124.2399 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5091,6 +5095,30 @@
 			)
 		)
 	)
+	(global_label "DShot_M2"
+		(shape input)
+		(at 59.69 53.34 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e5604aee-e43c-4485-b7df-5abc524412cc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 47.5731 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "B+"
 		(shape input)
 		(at 248.92 29.21 0)
@@ -5165,7 +5193,7 @@
 	)
 	(global_label "PHASE_C_M1"
 		(shape input)
-		(at 135.89 30.48 180)
+		(at 59.69 60.96 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5175,7 +5203,7 @@
 		)
 		(uuid "ec2b462e-127e-417f-a9e9-0bf4f2012e75")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 120.9911 30.48 0)
+			(at 44.7911 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

@@ -259,7 +259,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "1.0"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -728,7 +728,7 @@
         "uuid": "131092d7-5dad-4272-a758-a2445b6ec99c"
       }
     ],
-    "used_designators": "",
+    "used_designators": "J3,J21-25",
     "variants": []
   },
   "sheets": [
@@ -742,7 +742,7 @@
     ],
     [
       "d06f5338-d839-45bd-ae1a-cb9d2da3e16c",
-      "MCU"
+      "GPIO-CONN"
     ],
     [
       "63f0bd9c-70c2-4847-814d-8da099671243",

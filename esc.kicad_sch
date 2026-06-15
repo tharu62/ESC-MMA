@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "131092d7-5dad-4272-a758-a2445b6ec99c")
 	(paper "A4")
+	(title_block
+		(title "ESC MULTI-MCU-ARCHITECTURE")
+		(rev "1.0")
+		(comment 1 "This is the pcb for an Elettronic Speed Controller of 4 indipendent BLDC motors.")
+		(comment 2 "MAX SPECIFICATION: 30V - 50A, Logic Level 3v3.")
+	)
 	(lib_symbols)
 	(sheet
 		(at 152.4 58.42)
@@ -159,7 +165,7 @@
 			(color 0 0 0 0)
 		)
 		(uuid "d06f5338-d839-45bd-ae1a-cb9d2da3e16c")
-		(property "Sheetname" "MCU"
+		(property "Sheetname" "GPIO-CONN"
 			(at 91.44 108.5084 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -170,7 +176,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "mcu.kicad_sch"
+		(property "Sheetfile" "gpio-conn.kicad_sch"
 			(at 91.44 135.2046 0)
 			(show_name no)
 			(do_not_autoplace no)
