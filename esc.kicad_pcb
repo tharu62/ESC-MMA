@@ -234,12 +234,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/3033be3d-d347-4750-b7fb-a3f8dd332aea")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -350,14 +344,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/300f8094-cda9-409e-9c51-916cef2bb762")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "25" "24" "23"
-					"22" "21" "20" "19" "18" "17" "16" "15" "14" "13"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -752,7 +738,7 @@
 			(uuid "46195dd3-5e13-455b-a695-1adaebafa001")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/QFN-24_L4.0-W4.0-P0.50-BL-EP2.7.step"
+		(model "${KICAD10_3DMODEL_DIR}/QFN-24_L4.0-W4.0-P0.50-BL-EP2.7.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -824,12 +810,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/d048070c-c8d8-4683-8862-9d62eb61904e")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -904,12 +884,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/f71c37bd-541f-474a-bbe0-f024da222e50")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -995,12 +969,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/bd4933e2-bec9-4500-af96-3c3a4cc7a050")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1143,7 +1111,7 @@
 			(uuid "583c6382-22f8-4436-b32f-552f475f6120")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1226,12 +1194,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/aeaea6fb-082b-4816-b38c-d00acd13ede0")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1418,7 +1380,7 @@
 			(uuid "c6c237c2-789f-4975-8cfd-bddf8ff80fda")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1501,12 +1463,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/35dea16f-b0ec-4fd1-84a8-32e5daac567e")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1649,7 +1605,7 @@
 			(uuid "91d93cbe-63b1-4be7-a395-1b3be37bed7a")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1757,12 +1713,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/e54236f2-c99d-4811-9534-eefbc12009a8")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1897,7 +1847,7 @@
 		)
 		(fp_arc
 			(start -2.95 3.45)
-			(mid -2.710006 3.448777)
+			(mid -2.710006 3.448775)
 			(end -2.949975 3.45245)
 			(stroke
 				(width 0.1)
@@ -2062,7 +2012,7 @@
 			(uuid "21a598d4-b0c5-41f2-851a-6704de8bb6db")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2145,12 +2095,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/7855527d-411d-4916-80a7-bf3c3e65a74a")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2215,7 +2159,7 @@
 		)
 		(fp_arc
 			(start -0.87 -0.349999)
-			(mid -0.826065 -0.456065)
+			(mid -0.826066 -0.456065)
 			(end -0.719999 -0.5)
 			(stroke
 				(width 0.1)
@@ -2226,7 +2170,7 @@
 		)
 		(fp_arc
 			(start -0.719999 0.5)
-			(mid -0.826065 0.456065)
+			(mid -0.826067 0.456066)
 			(end -0.87 0.349999)
 			(stroke
 				(width 0.1)
@@ -2237,7 +2181,7 @@
 		)
 		(fp_arc
 			(start 0.719999 -0.5)
-			(mid 0.826066 -0.456065)
+			(mid 0.826067 -0.456066)
 			(end 0.87 -0.349999)
 			(stroke
 				(width 0.1)
@@ -2337,7 +2281,7 @@
 			(uuid "89be7aa7-ad48-452a-b8d6-fa849c299c4d")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2420,12 +2364,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/386e0a47-fea3-422b-bd45-cbe75019298f")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2568,7 +2506,7 @@
 			(uuid "10560676-621a-4de4-8cbc-801479935b64")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2651,12 +2589,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/0d8a5d57-6787-42d9-a0b6-bd109b1a6ed5")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2843,7 +2775,7 @@
 			(uuid "05fbed92-d297-43e0-9e3b-6ef4c2d5d31c")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0603_L1.6-W0.8-H0.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2926,12 +2858,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/63c90bba-c4ee-4133-accc-c96b2edc8a1e")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3118,7 +3044,7 @@
 			(uuid "c86a21ab-b947-4af1-ae94-a8ee845fba68")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0603_L1.6-W0.8-H0.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3201,12 +3127,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/9a07b5c5-52fb-44e2-8918-1ffcc5e12e44")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3349,7 +3269,7 @@
 			(uuid "59db2ab3-80ad-4a19-acf0-7ded8003298a")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3421,12 +3341,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/c2db7b79-1fbf-4d67-a1a6-9e6b2de6f93c")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -3512,12 +3426,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/34bbe5e5-3161-4092-b934-bd94cd1da5ff")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3660,7 +3568,7 @@
 			(uuid "a012f226-d2e3-4a1e-93d8-777e48c81c4f")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3743,12 +3651,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/b9d17d81-56b7-4c94-bf95-4b9d4edf411a")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3935,7 +3837,7 @@
 			(uuid "5c8c96a7-8b0f-4e88-9535-a3e2188bb025")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0603_L1.6-W0.8-H0.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4007,12 +3909,6 @@
 		(path "/d06f5338-d839-45bd-ae1a-cb9d2da3e16c/68813b3a-2bb0-4dd5-bafc-9a20bb163780")
 		(sheetname "/GPIO-CONN/")
 		(sheetfile "gpio-conn.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -4098,12 +3994,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/b5aa529a-fe27-43b0-9d7f-2720101bb947")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4246,7 +4136,7 @@
 			(uuid "06238384-71fd-4a09-a570-c615f56acb11")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4329,12 +4219,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/579a4b21-baf0-4ecb-ae54-b39050dff348")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4521,7 +4405,7 @@
 			(uuid "5c4cb897-142f-4e63-b9dd-0da834c46939")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0603_L1.6-W0.8-H0.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4629,12 +4513,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/1f8c72d5-bb50-4a6f-af3d-bcd90f211f4e")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4934,7 +4812,7 @@
 			(uuid "d38c31ef-c738-4768-8dc9-32417c8735d4")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5042,14 +4920,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/b824cd26-e04d-4eff-950c-adba93258b05")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "20" "19" "18" "17" "16"
-					"15" "14" "13" "12" "11"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5134,7 +5004,7 @@
 		)
 		(fp_arc
 			(start -2.05 -1.54)
-			(mid -2.289992 -1.538745)
+			(mid -2.289994 -1.538785)
 			(end -2.050025 -1.542429)
 			(stroke
 				(width 0.1)
@@ -5517,7 +5387,7 @@
 			(uuid "fd133195-fa3a-47d7-922d-62f60b141288")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/UFQFPN-20_L3.0-W3.0-H0.6-P0.50.step"
+		(model "${KICAD10_3DMODEL_DIR}/UFQFPN-20_L3.0-W3.0-H0.6-P0.50.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5589,12 +5459,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/d671d784-6c6f-4fc1-b7be-14bc3d09ab7e")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -5705,12 +5569,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/215a5d6a-6c5a-4fe0-a152-958e720f9a1f")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5845,7 +5703,7 @@
 		)
 		(fp_arc
 			(start -2.95 3.45)
-			(mid -2.710006 3.448777)
+			(mid -2.710006 3.448775)
 			(end -2.949975 3.45245)
 			(stroke
 				(width 0.1)
@@ -6010,7 +5868,7 @@
 			(uuid "4081a1ce-5e82-4787-8c6e-d88a76df2b33")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6093,12 +5951,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/daa51286-b507-429c-bbb2-fc8b2881f9c7")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6285,7 +6137,7 @@
 			(uuid "47a9acd7-feb4-4b80-a201-5965a3c8fc1d")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0603_L1.6-W0.8-H0.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6368,12 +6220,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/ebc3a1ee-88d5-4277-9279-5acceb5d800c")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6516,7 +6362,7 @@
 			(uuid "11e91f8d-3013-4b31-b638-b2d89653dcbf")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6624,12 +6470,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/08d3c155-a10f-4602-822f-46fdc700a0f6")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6764,7 +6604,7 @@
 		)
 		(fp_arc
 			(start -2.95 3.45)
-			(mid -2.710006 3.448777)
+			(mid -2.710006 3.448775)
 			(end -2.949975 3.45245)
 			(stroke
 				(width 0.1)
@@ -6929,7 +6769,7 @@
 			(uuid "c2e78362-8920-42af-8190-9f7529140b5f")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7012,12 +6852,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/5c9f111b-03d7-475f-8d2d-d3875196ae70")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7204,7 +7038,7 @@
 			(uuid "3d0da037-7b15-4ab0-a14c-c8f70fa3df60")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7287,12 +7121,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/7faceb02-768c-4e38-b1ae-67894bcfefd4")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7435,7 +7263,7 @@
 			(uuid "0d4cecd8-7339-4310-bbd2-7d2d4e748d87")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7518,12 +7346,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/a70a4ed5-0b89-43af-8b55-9b9b138b18e9")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7710,7 +7532,7 @@
 			(uuid "e2cdc2d4-ccca-40ba-8be6-a559e911e2a1")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0603_L1.6-W0.8-H0.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7793,12 +7615,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/1e449522-c630-4fac-bc9f-06e8dcc36cb4")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7985,7 +7801,7 @@
 			(uuid "6e8489c4-e9ee-4580-bfe5-239bd112acf5")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0603_L1.6-W0.8-H0.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8093,12 +7909,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/0c842bb1-e950-48f9-9cfd-caa82a79e231")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8233,7 +8043,7 @@
 		)
 		(fp_arc
 			(start -2.95 3.45)
-			(mid -2.710006 3.448777)
+			(mid -2.710006 3.448775)
 			(end -2.949975 3.45245)
 			(stroke
 				(width 0.1)
@@ -8398,7 +8208,7 @@
 			(uuid "7dca8016-5732-4fef-925d-7ffad500b3b3")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8481,12 +8291,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/01f53390-a2a1-4ed7-9cc3-c5b6d206e57a")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8673,7 +8477,7 @@
 			(uuid "0f8326a6-be9b-409e-95b2-6303c6f8b750")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0603_L1.6-W0.8-H0.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8756,12 +8560,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/2d5537f9-7183-4241-9bd9-451498b00b3b")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8948,7 +8746,7 @@
 			(uuid "c6f6bfc3-e276-4115-8b35-183427297f5f")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0603_L1.6-W0.8-H0.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9031,12 +8829,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/0da53749-ff81-458e-9175-2fb2b3242cfb")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9179,7 +8971,7 @@
 			(uuid "145e287b-970e-40e8-838b-3bda73b38fa8")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9251,12 +9043,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/fe705cc6-2cd0-4002-a6a2-8834a799614c")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -9342,12 +9128,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/02bb47d4-86d6-40c8-b058-a7ed14feca67")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9490,7 +9270,7 @@
 			(uuid "d106e297-2901-431d-9dc2-6b2f665328c2")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9573,12 +9353,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/0a4b79f4-bbf0-4b73-9994-42184c47d6d9")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9721,7 +9495,7 @@
 			(uuid "fdaec678-5544-4562-8a06-9f541d5e42b4")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9804,12 +9578,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/2d4adce4-fdeb-4970-8e65-e11f777d14c6")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9952,7 +9720,7 @@
 			(uuid "42876104-750b-4efc-8b0d-b27c6dcda8a2")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10035,12 +9803,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/d3059d75-9241-4c66-b70f-513c0f3174f3")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10183,7 +9945,7 @@
 			(uuid "431dfd24-1d55-49f7-ad14-85d9fc66f8b9")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10291,12 +10053,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/8aeb38ec-9052-405e-b914-f1c9a4e1be7b")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10431,7 +10187,7 @@
 		)
 		(fp_arc
 			(start -2.95 3.45)
-			(mid -2.710006 3.448777)
+			(mid -2.710006 3.448775)
 			(end -2.949975 3.45245)
 			(stroke
 				(width 0.1)
@@ -10596,7 +10352,7 @@
 			(uuid "5403e9d1-fee0-4cc6-8fba-17844e1f815d")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10679,12 +10435,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/701e6e3a-77c8-45f9-b1dc-3eb9579d6151")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10827,7 +10577,7 @@
 			(uuid "7b9ebdcb-2a94-44ee-a330-4469ce6ca555")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10910,12 +10660,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/7b618b45-590a-475a-be16-1d512c368616")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11102,7 +10846,7 @@
 			(uuid "8c7e7fb8-c2a2-4951-bb8f-f6b882bbe247")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11254,12 +10998,6 @@
 		(path "/d06f5338-d839-45bd-ae1a-cb9d2da3e16c/45271e94-376f-4f9f-9799-bc8157f082a6")
 		(sheetname "/GPIO-CONN/")
 		(sheetfile "gpio-conn.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -11345,12 +11083,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/5afa57d6-2873-4c64-ad34-a8c41fa8dea6")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11493,7 +11225,7 @@
 			(uuid "02b2d9ae-30f9-4890-bfe3-bcac5e4863ae")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11576,12 +11308,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/772e9254-98f6-4c0a-a2ef-56e020d8c031")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11724,7 +11450,7 @@
 			(uuid "34210488-c98f-4819-96b0-5fe9a09ad073")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11807,12 +11533,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/1b41f8d4-58f1-442e-a9c8-cc78f823cbc1")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11999,7 +11719,7 @@
 			(uuid "a791bfef-0ee2-4e15-8a36-85de92de6e36")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12082,12 +11802,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/b49f2191-aae3-474a-8a1f-e35e0478932b")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12230,7 +11944,7 @@
 			(uuid "043b81d3-f5da-4ae6-ab51-e804f48ec129")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12302,12 +12016,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/f036f6cf-7131-4f8c-bfd4-5bdbb08ea862")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -12393,12 +12101,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/473abbc4-7dbb-4ff6-b87a-483a60d51267")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12585,7 +12287,7 @@
 			(uuid "246f77f8-6099-437e-b930-76c48e9d1151")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0603_L1.6-W0.8-H0.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12668,12 +12370,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/d0ce93f4-5912-4104-91e5-1f988388cbd3")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12860,7 +12556,7 @@
 			(uuid "e07d9e5c-d02b-453a-b02c-080aa6d61fc0")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0603_L1.6-W0.8-H0.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12943,12 +12639,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/e8033537-1e01-40f5-9e51-3892da230840")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13135,7 +12825,7 @@
 			(uuid "2ff3911f-8a0c-4b4e-8627-404757ed06a5")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0603_L1.6-W0.8-H0.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13243,12 +12933,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/de725578-6c0a-402d-90af-17e45bf6b836")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13383,7 +13067,7 @@
 		)
 		(fp_arc
 			(start -2.95 3.45)
-			(mid -2.710006 3.448777)
+			(mid -2.710006 3.448775)
 			(end -2.949975 3.45245)
 			(stroke
 				(width 0.1)
@@ -13548,7 +13232,7 @@
 			(uuid "9b607acf-3bcf-459d-a5a7-e7902b2f677c")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13620,12 +13304,6 @@
 		(path "/d06f5338-d839-45bd-ae1a-cb9d2da3e16c/a9736e84-9fae-4ae4-bdc5-69f18f7efabd")
 		(sheetname "/GPIO-CONN/")
 		(sheetfile "gpio-conn.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -13711,12 +13389,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/1802b0c2-adc9-4037-a99d-ced2dff8d252")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13903,7 +13575,7 @@
 			(uuid "c65606e1-70f6-4cd1-869a-0dbb0e5d7768")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14011,12 +13683,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/e018e176-5d22-425b-a817-956dae9d95ff")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14151,7 +13817,7 @@
 		)
 		(fp_arc
 			(start -2.95 3.45)
-			(mid -2.710006 3.448777)
+			(mid -2.710006 3.448775)
 			(end -2.949975 3.45245)
 			(stroke
 				(width 0.1)
@@ -14316,7 +13982,7 @@
 			(uuid "bd923604-f66e-4cd7-a2f3-63c370ba4e47")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14399,12 +14065,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/c22ab239-5dcf-48a0-90a6-c7ac33bf23b5")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14547,7 +14207,7 @@
 			(uuid "1e72709f-1743-40fe-820d-fd931874fb39")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14630,12 +14290,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/1ee07054-5b51-4a58-9a1b-bbb34430b625")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14822,7 +14476,7 @@
 			(uuid "1cca21ca-54f4-4f30-9712-e113395ee332")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0603_L1.6-W0.8-H0.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14905,12 +14559,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/06ccfa10-019c-41dc-99a5-09d5677af23c")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15097,7 +14745,7 @@
 			(uuid "48cd1d08-f950-4d1e-8e18-63d093deee7c")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15180,12 +14828,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/b2207f48-8907-4510-ae51-f50bdd4f5d4a")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15328,7 +14970,7 @@
 			(uuid "465fa670-ad8e-4561-b2a2-9e1164e65ea4")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15411,12 +15053,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/e49487d2-c8d8-4d6c-b3ad-cb9c403dd1a7")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15603,7 +15239,7 @@
 			(uuid "a3bbd6b5-3d11-4657-bf18-208dfa40fa85")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15686,12 +15322,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/3f8a4cb4-f64d-488a-934c-6538299a5423")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15878,7 +15508,7 @@
 			(uuid "31b02a5d-ebda-4d06-a356-8dedadc2f152")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15950,12 +15580,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/7c9d2b5a-cab4-4ec3-b90a-f38b8d446234")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -16041,12 +15665,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/72d72d54-aa1e-4b91-bd87-aa6c4d093e51")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16189,7 +15807,7 @@
 			(uuid "55341a2b-e8ca-420c-8471-0e9c0013cdc2")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16255,13 +15873,26 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "051b054e-5d59-4903-8073-e1eb6a1a8295")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
 		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
 			(stroke
-				(width 0.15)
+				(width 0.1)
 				(type solid)
 			)
 			(fill no)
@@ -16353,13 +15984,26 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "016d46ff-a3fd-4555-9e02-67518f13ddca")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
 		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
 			(stroke
-				(width 0.15)
+				(width 0.1)
 				(type solid)
 			)
 			(fill no)
@@ -16468,12 +16112,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/4f982a3b-db48-429a-a392-f34d6134efba")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16660,7 +16298,7 @@
 			(uuid "55e9179f-4faf-46b3-be57-117a53d9c73a")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16768,12 +16406,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/55ae3ec7-c9fb-4ee8-a6e3-9ddcf1fb7899")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17073,7 +16705,7 @@
 			(uuid "e2e1ff9d-8539-46d1-bc4e-132864f39737")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17156,12 +16788,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/8169ad08-e578-4183-a637-c5f215c9d397")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17348,7 +16974,7 @@
 			(uuid "675adc59-db73-4088-9a35-86cbf8233d6f")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17431,12 +17057,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/eb4a2032-2f5d-4bdc-88a1-97500cea9797")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17623,7 +17243,7 @@
 			(uuid "56b6139d-2edf-4f3e-9ce7-737ca7a5b6ed")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17706,12 +17326,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/c1a4f97e-be07-4188-ab6e-463a2d856336")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17854,7 +17468,7 @@
 			(uuid "023a4d7f-9b13-41e5-a437-3394ecae7707")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17962,12 +17576,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/f20a07e6-f264-40b9-8806-a96f37824095")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18102,7 +17710,7 @@
 		)
 		(fp_arc
 			(start -2.95 3.45)
-			(mid -2.710006 3.448777)
+			(mid -2.710006 3.448775)
 			(end -2.949975 3.45245)
 			(stroke
 				(width 0.1)
@@ -18267,7 +17875,7 @@
 			(uuid "292e130a-9388-4b7e-901e-d4131e114ba2")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18339,12 +17947,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/71d428c8-b57b-4976-a435-7e3c6bead275")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -18430,12 +18032,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/087b4026-4991-4326-a9cb-0a257bdb841e")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18578,7 +18174,7 @@
 			(uuid "85650a7f-daf5-47fa-a00e-788b855f7d07")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18661,12 +18257,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/b51d2a1b-8e8f-4358-a8f6-dd61e4f3081d")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18809,7 +18399,7 @@
 			(uuid "4cc236f3-3b41-4c17-aa2c-c0b857b374da")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18892,12 +18482,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/f4f2e468-37b2-4d8c-9041-5f63201596ee")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19040,7 +18624,7 @@
 			(uuid "395e2afe-468e-43b6-b905-10ebf505a903")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19112,12 +18696,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/7f65302a-8c61-4ff1-b187-a3e523f614ca")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -19203,12 +18781,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/5c297e13-fdbb-4520-a932-43d5e7c015a3")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19351,7 +18923,7 @@
 			(uuid "d93bf5af-76c6-4eea-932f-d082ed9ea90c")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19434,12 +19006,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/d32e4371-e7a9-4ccf-8b16-72b8e70795ba")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19626,7 +19192,7 @@
 			(uuid "85b35370-551b-494d-bc6c-f02f2dc3f91b")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0603_L1.6-W0.8-H0.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19709,17 +19275,11 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/3de14fcb-7bb2-4c7e-86cd-3b5d362b78e2")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.22 -0.5)
-			(end 0.719999 -0.5)
+			(end 0.72 -0.5)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -19728,7 +19288,7 @@
 			(uuid "77f97bd0-37a7-4eb6-81b0-b1978b5ea5d9")
 		)
 		(fp_line
-			(start -0.719999 -0.5)
+			(start -0.72 -0.5)
 			(end -0.22 -0.5)
 			(stroke
 				(width 0.1)
@@ -19738,8 +19298,8 @@
 			(uuid "cb09a948-ae4e-4809-a172-08d72a77fda0")
 		)
 		(fp_line
-			(start 0.87 -0.349999)
-			(end 0.87 0.349999)
+			(start 0.87 -0.35)
+			(end 0.87 0.35)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -19748,8 +19308,8 @@
 			(uuid "d8c874a7-2bd2-4de2-9fdc-778415522c65")
 		)
 		(fp_line
-			(start -0.87 0.349999)
-			(end -0.87 -0.349999)
+			(start -0.87 0.35)
+			(end -0.87 -0.35)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -19758,7 +19318,7 @@
 			(uuid "14de03f3-b80f-42b3-b1c2-59b9f533fc79")
 		)
 		(fp_line
-			(start 0.719999 0.5)
+			(start 0.72 0.5)
 			(end 0.22 0.5)
 			(stroke
 				(width 0.1)
@@ -19769,7 +19329,7 @@
 		)
 		(fp_line
 			(start -0.22 0.5)
-			(end -0.719999 0.5)
+			(end -0.72 0.5)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -19778,9 +19338,9 @@
 			(uuid "3d7d8bd9-b5ed-4ea9-9f2f-d06c13d0e956")
 		)
 		(fp_arc
-			(start 0.719999 -0.5)
-			(mid 0.826066 -0.456065)
-			(end 0.87 -0.349999)
+			(start 0.72 -0.5)
+			(mid 0.826066 -0.456066)
+			(end 0.87 -0.35)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -19789,20 +19349,20 @@
 			(uuid "5055f229-045c-4b59-98d9-30b2dfe862ec")
 		)
 		(fp_arc
-			(start -0.87 -0.349999)
-			(mid -0.826066 -0.456065)
-			(end -0.719999 -0.5)
+			(start -0.87 -0.35)
+			(mid -0.826066 -0.456066)
+			(end -0.72 -0.5)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "bd7eb225-f712-4273-bb3d-80cd2c8bb28f")
+			(uuid "4ba2af2a-95ff-4901-9d3e-1e220f42fbb9")
 		)
 		(fp_arc
-			(start 0.87 0.349999)
-			(mid 0.826066 0.456065)
-			(end 0.719999 0.5)
+			(start 0.87 0.35)
+			(mid 0.826066 0.456066)
+			(end 0.72 0.5)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -19811,15 +19371,15 @@
 			(uuid "616cf501-695f-44d1-b0d4-7a1d7e375da0")
 		)
 		(fp_arc
-			(start -0.719999 0.5)
-			(mid -0.826066 0.456065)
-			(end -0.87 0.349999)
+			(start -0.72 0.5)
+			(mid -0.826066 0.456066)
+			(end -0.87 0.35)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4ba2af2a-95ff-4901-9d3e-1e220f42fbb9")
+			(uuid "bd7eb225-f712-4273-bb3d-80cd2c8bb28f")
 		)
 		(fp_circle
 			(center -0.5 0.25)
@@ -19901,7 +19461,7 @@
 			(uuid "eaae9a9f-6915-4de1-b08c-b3070526628f")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19973,12 +19533,6 @@
 		(path "/d06f5338-d839-45bd-ae1a-cb9d2da3e16c/bdbc82a8-bfc1-4b83-afa6-f747c8635e17")
 		(sheetname "/GPIO-CONN/")
 		(sheetfile "gpio-conn.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -20064,12 +19618,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/3eefe65f-963f-4e3e-aa8d-eb485455000d")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20256,7 +19804,7 @@
 			(uuid "2965709d-e820-44e6-b4a1-4c5eb65854c3")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20364,12 +19912,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/fb57a7c8-5d19-4555-8f84-25fd31ca52fa")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20669,7 +20211,7 @@
 			(uuid "eec81216-0299-43a1-8dc6-b6be16734a4d")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20752,12 +20294,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/c89840f1-183f-4d84-826f-b7bd0c3d99b5")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20900,7 +20436,7 @@
 			(uuid "a3f79fa3-28a7-49a4-8a3a-a96c2ac827d0")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20972,12 +20508,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/f4109423-49b6-43f2-8988-59081acf113d")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -21149,13 +20679,26 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "5f6ae1a8-c65d-409a-a497-08733b7fd956")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
 		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
 			(stroke
-				(width 0.15)
+				(width 0.1)
 				(type solid)
 			)
 			(fill no)
@@ -21264,12 +20807,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/2e6f8992-b872-4c8c-a858-1b3fd2302cfb")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21456,7 +20993,7 @@
 			(uuid "8f8cfbcf-64a4-46f1-9095-6b188bdf6f79")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0603_L1.6-W0.8-H0.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21539,12 +21076,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/d092fc5c-c914-4598-b4db-074c385bda17")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21687,7 +21218,7 @@
 			(uuid "f50cf4ed-33f3-4ff2-a3ca-a3849fe5182a")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21770,12 +21301,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/af413955-e4f9-4b2e-8f35-b19f6c54918c")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21918,7 +21443,7 @@
 			(uuid "0a13adca-9cad-4ce6-9fad-3ab2a51cf01c")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22029,14 +21554,83 @@
 		(path "/d16f723d-eb96-498f-9f42-02a776bee3f3/828a605d-f934-427b-8468-5192ce04c024")
 		(sheetname "/POWER CONN/")
 		(sheetfile "power_conn.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -4.57 0)
+			(end -3.56 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ecb54863-7601-4c2e-95bb-ce1e93742f68")
+		)
+		(fp_line
+			(start -4.06 -0.76)
+			(end -4.06 0.76)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e0b22e0f-9769-4555-b213-fdf36b67bd5d")
+		)
+		(fp_circle
+			(center -5 5)
+			(end -4.97 5)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "23e497a8-9199-41f0-b46c-58166ca142aa")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 5 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "03fa931c-30f4-4d88-9333-c3c5606a0dca")
+		)
+		(fp_poly
+			(pts
+				(xy 3.555746 -3.556) (xy 3.555746 3.556) (xy 4.317746 2.54) (xy 4.825746 1.016) (xy 5.079746 -0.508)
+				(xy 4.825746 -1.524) (xy 3.555746 -3.556)
+			)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.SilkS")
+			(uuid "5792fda1-fabd-40e6-835a-3b3e0ccea966")
+		)
+		(fp_line
+			(start -5 0)
+			(end 5 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "89d1f4e3-c927-423d-993e-df596d643e87")
+		)
+		(fp_line
+			(start 5 0)
+			(end -5 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "ecd3a6ae-2442-4871-8e71-c3fec4537a99")
+		)
 		(fp_circle
 			(center -2.5 0)
 			(end -2.35 0)
@@ -22058,6 +21652,18 @@
 			(fill no)
 			(layer "F.Fab")
 			(uuid "30f77a04-58a5-449a-8c0b-978c1d951dc7")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "bf7fb739-6716-4b8c-b0a7-81a6a8f95271")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
 		)
 		(pad "1" thru_hole circle
 			(at -2.5 0)
@@ -22082,7 +21688,7 @@
 			(uuid "f41fb271-2aa0-46e7-85ab-12d24d603793")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/CAP-TH_BD10.0-P5.00-D0.6-FD-H12.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/CAP-TH_BD10.0-P5.00-D0.6-FD-H12.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22165,12 +21771,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/6fac0bf6-5946-4c07-85d1-1ea12521cfbc")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22357,7 +21957,7 @@
 			(uuid "215f99b5-bd47-4a4e-825b-00c18604b38c")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22440,12 +22040,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/5f201608-d7a5-4206-9b75-a134e59a0835")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22588,7 +22182,7 @@
 			(uuid "9d79ad84-e341-4ef9-ad89-786fa0d02d5f")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22660,12 +22254,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/48325f0f-bb57-476e-9764-64be728d410b")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -22740,12 +22328,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/ea18b7b8-7982-4b94-a7b1-715f0a598eda")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -22831,12 +22413,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/46d55662-7397-40f9-bfe7-1727adc791f4")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22979,7 +22555,7 @@
 			(uuid "8892d6f7-0bf6-49d6-848e-6036452e90e7")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23087,14 +22663,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/038c9296-283d-4d4b-a896-7d3d5099954b")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "25" "24" "23"
-					"22" "21" "20" "19" "18" "17" "16" "15" "14" "13"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23489,7 +23057,7 @@
 			(uuid "520070a1-07f0-4515-a280-4e2f700f469a")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/QFN-24_L4.0-W4.0-P0.50-BL-EP2.7.step"
+		(model "${KICAD10_3DMODEL_DIR}/QFN-24_L4.0-W4.0-P0.50-BL-EP2.7.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23555,13 +23123,26 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "51b9f1a8-8942-4b32-ae9c-d4f804771cd7")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
 		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
 			(end 2.2 0)
 			(stroke
-				(width 0.15)
+				(width 0.1)
 				(type solid)
 			)
 			(fill no)
@@ -23670,12 +23251,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/2acd090c-e2c8-4b66-a2a3-d3a013105f4d")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23818,7 +23393,7 @@
 			(uuid "64c315c9-408f-4205-8aa3-59a0f0597065")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23901,12 +23476,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/44599563-9801-4e2e-94d2-f27f67477bf8")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24049,7 +23618,7 @@
 			(uuid "555a0558-66a3-40f0-ba6b-10ad8427def2")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24132,12 +23701,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/7410c945-d237-4728-babc-b3ba6b7182b1")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24324,7 +23887,7 @@
 			(uuid "b2a09080-af33-444b-9205-68224a2b17cf")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24396,12 +23959,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/cec8e834-8aa9-4e22-8cf2-b9466ff3f981")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -24487,12 +24044,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/b7e15b9e-a758-4f8b-9bc1-8b56237b68a9")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24679,7 +24230,7 @@
 			(uuid "09362720-f423-412f-a867-2e75bb898394")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24762,12 +24313,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/07ad2085-3a41-4d68-b510-4560aed12aae")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24843,7 +24388,7 @@
 		)
 		(fp_arc
 			(start 0.719999 -0.5)
-			(mid 0.826066 -0.456065)
+			(mid 0.826067 -0.456066)
 			(end 0.87 -0.349999)
 			(stroke
 				(width 0.1)
@@ -24854,7 +24399,7 @@
 		)
 		(fp_arc
 			(start -0.719999 0.5)
-			(mid -0.826066 0.456065)
+			(mid -0.826067 0.456066)
 			(end -0.87 0.349999)
 			(stroke
 				(width 0.1)
@@ -24954,7 +24499,7 @@
 			(uuid "1ed631d6-6b3d-4f69-b985-f9745779fe9e")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25037,12 +24582,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/3f6ced37-0fcd-44be-b902-ad6c42b4e404")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25185,7 +24724,7 @@
 			(uuid "daec9507-1e5b-4eb8-a940-e18b2442335b")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25268,12 +24807,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/5bd013c9-3e06-426f-b63d-306c998a681e")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25460,7 +24993,7 @@
 			(uuid "9c91ee50-fc66-40a3-8753-1d362a21ddcb")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25543,12 +25076,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/2ad3b0ea-a783-41ef-994c-5fb500bd0664")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25735,7 +25262,7 @@
 			(uuid "3bfab1fa-689e-4b49-ad78-ca51be52b33f")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0603_L1.6-W0.8-H0.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25818,12 +25345,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/bee5c7a2-b3e1-4f08-a60b-dc19ebcaa82c")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26010,7 +25531,7 @@
 			(uuid "0daf5504-1df0-48f5-b15c-6ad0fd1d5057")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26093,12 +25614,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/97297f5b-85d6-4ae1-862f-1f95faf54c4c")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26241,7 +25756,7 @@
 			(uuid "88de2877-0557-47f5-a5f1-2d865441cf36")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26349,12 +25864,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/785e922e-3782-48af-a37a-53b38bfead28")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26489,7 +25998,7 @@
 		)
 		(fp_arc
 			(start -2.95 3.45)
-			(mid -2.710006 3.448777)
+			(mid -2.710006 3.448775)
 			(end -2.949975 3.45245)
 			(stroke
 				(width 0.1)
@@ -26654,7 +26163,7 @@
 			(uuid "1d5c2ec9-a5ee-40d3-b42a-867f65da438e")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26762,14 +26271,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/0bc96788-ece9-436e-8cc6-7860d7623d5f")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "20" "19" "18" "17" "16"
-					"15" "14" "13" "12" "11"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26854,7 +26355,7 @@
 		)
 		(fp_arc
 			(start -2.05 -1.54)
-			(mid -2.289992 -1.538745)
+			(mid -2.289994 -1.538785)
 			(end -2.050025 -1.542429)
 			(stroke
 				(width 0.1)
@@ -27237,7 +26738,7 @@
 			(uuid "b24cbf95-2897-4cd1-beca-79643c74e832")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/UFQFPN-20_L3.0-W3.0-H0.6-P0.50.step"
+		(model "${KICAD10_3DMODEL_DIR}/UFQFPN-20_L3.0-W3.0-H0.6-P0.50.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27320,12 +26821,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/3e1a03b2-4bef-4826-b417-2812cadd299a")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27468,7 +26963,7 @@
 			(uuid "c465c5bf-6017-4341-90b3-aaa7fa0d717e")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27551,12 +27046,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/3ba27ab1-c82e-44ae-b65c-32c8deb9686c")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27699,7 +27188,7 @@
 			(uuid "74d6ad31-afe5-4bcb-8236-0d9b775aec09")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27787,12 +27276,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/2ebaeb2e-4f16-4cf5-920c-790a6a629f97")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27980,7 +27463,7 @@
 			(uuid "1da9b89e-47be-4775-b892-4693f5a02014")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28068,12 +27551,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/b73c2b6c-77c1-4a87-aafd-ede2218f65e2")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28217,7 +27694,7 @@
 			(uuid "6fb95112-35ca-4959-8dc1-fde31c4574f3")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28305,12 +27782,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/33cbb09f-2b51-4e69-83c5-1797fc141363")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28454,7 +27925,7 @@
 			(uuid "1c8809f2-abdc-4726-9b6e-02a84054c7d3")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28542,12 +28013,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/50c72ff7-49e2-489e-b2f0-51b91a0b5215")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28691,7 +28156,7 @@
 			(uuid "46597a26-2ae9-443e-bfde-daa567defddf")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28779,12 +28244,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/b2ae9e3d-23a0-49cb-99d5-c78e6dcaf3c9")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28860,7 +28319,7 @@
 		)
 		(fp_arc
 			(start 0.719999 -0.5)
-			(mid 0.826066 -0.456065)
+			(mid 0.826067 -0.456066)
 			(end 0.87 -0.349999)
 			(stroke
 				(width 0.1)
@@ -28871,7 +28330,7 @@
 		)
 		(fp_arc
 			(start -0.719999 0.5)
-			(mid -0.826066 0.456065)
+			(mid -0.826067 0.456066)
 			(end -0.87 0.349999)
 			(stroke
 				(width 0.1)
@@ -28972,7 +28431,7 @@
 			(uuid "0ada66f3-7d81-48f4-9912-01c41be8928a")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29087,12 +28546,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/7342a904-6e69-4d21-b3c9-a766155d3f25")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29227,7 +28680,7 @@
 		)
 		(fp_arc
 			(start -2.949975 -3.45245)
-			(mid -2.710006 -3.448777)
+			(mid -2.710006 -3.448775)
 			(end -2.95 -3.45)
 			(stroke
 				(width 0.1)
@@ -29393,7 +28846,7 @@
 			(uuid "27a18424-f9ba-4cc1-98ea-1ee926ae5f6f")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29481,12 +28934,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/8783e88f-707d-4537-91e4-de59a7df8e30")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29674,7 +29121,7 @@
 			(uuid "6256f924-a201-4d08-952c-6718b21d3513")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29762,12 +29209,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/6b0452ef-f1c7-4df4-b61b-32f805af43da")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29955,7 +29396,7 @@
 			(uuid "6cb5da7b-b1cf-43fc-a6c1-cec575075942")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0603_L1.6-W0.8-H0.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -30025,16 +29466,24 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C170151"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bddc0dfa-0bc8-48f6-a390-26465b59480e")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/6016180c-d0b2-4940-a99e-051a49062e7c")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30222,7 +29671,7 @@
 			(uuid "8dc361c1-f4a1-4873-af73-9d57ca452ab1")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -30310,12 +29759,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/350ac54f-b3db-43c0-b8b8-1f9d7e7a2c8c")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30503,7 +29946,7 @@
 			(uuid "7cb69d3f-f918-4fbe-a777-ad24421dbfbd")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -30591,12 +30034,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/24a50a6e-fef4-4416-9686-dc68a38bac8a")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30740,7 +30177,7 @@
 			(uuid "d3e672f2-12e2-42f8-b36b-a919699df621")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -30855,12 +30292,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/c4012192-a3a5-4008-b10a-a5f9d2f25ddc")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30995,7 +30426,7 @@
 		)
 		(fp_arc
 			(start -2.949975 -3.45245)
-			(mid -2.710006 -3.448777)
+			(mid -2.710006 -3.448775)
 			(end -2.95 -3.45)
 			(stroke
 				(width 0.1)
@@ -31161,7 +30592,7 @@
 			(uuid "2069b432-15af-4b9e-9c9b-d4a1e9ce9680")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31276,12 +30707,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/6565ac62-e3c2-47c6-b07d-c2c1f9df18bc")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31416,7 +30841,7 @@
 		)
 		(fp_arc
 			(start -2.949975 -3.45245)
-			(mid -2.710006 -3.448777)
+			(mid -2.710006 -3.448775)
 			(end -2.95 -3.45)
 			(stroke
 				(width 0.1)
@@ -31582,7 +31007,7 @@
 			(uuid "67f3a951-c376-4e90-b62d-b8329e8ec618")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31697,12 +31122,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/eb1f926d-ac2c-4f30-9276-e759dd1a5585")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32003,7 +31422,7 @@
 			(uuid "7e8f9fa4-c53c-42ee-8459-fce0d7f3ea86")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32091,12 +31510,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/e92429b0-0def-4a36-9153-3936bbe04cdb")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32240,7 +31653,7 @@
 			(uuid "cd73b1a6-7ba0-4247-b567-f695eccc744c")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32328,12 +31741,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/b16326f2-70fa-4952-93ea-93a1c8ddff24")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32477,7 +31884,7 @@
 			(uuid "5e5bb544-8c1d-4c2c-8298-53d1980aaa7b")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32565,12 +31972,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/2912192a-2e1b-445d-b8c4-fd252f12c983")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32758,7 +32159,7 @@
 			(uuid "0c827c51-1148-4c28-b198-fd1ce3a9010d")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32846,12 +32247,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/ac9494d6-2e68-43a3-8f7a-956f15b10993")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32995,7 +32390,7 @@
 			(uuid "92b77f97-9dd1-4679-b137-f7b1a2fa9bb7")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -33083,12 +32478,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/5295770e-b2a3-43fa-abaa-0f1a8bcc6df6")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33276,7 +32665,7 @@
 			(uuid "56000623-c9f4-43e1-8861-d4250c7d9f51")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0603_L1.6-W0.8-H0.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -33364,12 +32753,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/545edc12-37bc-41e1-929a-7f639c15ce0c")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33513,7 +32896,7 @@
 			(uuid "647e97ed-0712-4631-9f5e-e9ca1b785126")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -33601,12 +32984,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/23de0534-8e82-4244-87a5-f3da9740de98")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33750,7 +33127,7 @@
 			(uuid "bbcc6e3d-2d68-4471-bdcd-1c3c3a287ac9")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -33865,14 +33242,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/562e9dc6-0010-492c-8c90-2691c021ee04")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "20" "19" "18" "17" "16"
-					"15" "14" "13" "12" "11"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33957,7 +33326,7 @@
 		)
 		(fp_arc
 			(start -2.050025 1.542429)
-			(mid -2.289994 1.538745)
+			(mid -2.289993 1.538785)
 			(end -2.05 1.54)
 			(stroke
 				(width 0.1)
@@ -34341,7 +33710,7 @@
 			(uuid "1f027ca8-1507-4ea2-abc6-f338baded596")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/UFQFPN-20_L3.0-W3.0-H0.6-P0.50.step"
+		(model "${KICAD10_3DMODEL_DIR}/UFQFPN-20_L3.0-W3.0-H0.6-P0.50.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34456,12 +33825,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/1d8e4cca-6832-464b-9cdb-883282159b9e")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -34762,7 +34125,7 @@
 			(uuid "c7cb28f1-4f95-490d-937a-79d115df4fe1")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34850,12 +34213,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/38425995-2d8c-459c-912b-9aa44c6841a5")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -34999,7 +34356,7 @@
 			(uuid "16ce1eff-ad57-4d60-89c7-4bc39b538833")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -35114,12 +34471,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/f36aebf5-088d-4eb1-b5e9-f108f0e5fd88")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35420,7 +34771,7 @@
 			(uuid "160efd8b-deb8-4225-a063-c9c506246f5d")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -35508,12 +34859,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/f31df490-36b1-4247-a309-67b21d154a4e")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35657,7 +35002,7 @@
 			(uuid "61ce8ecc-c368-4a3d-b8bf-62a36b279937")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -35772,14 +35117,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/93fe7d89-60b4-4fbc-96bd-110a0fd8e72d")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "25" "24" "23"
-					"22" "21" "20" "19" "18" "17" "16" "15" "14" "13"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36175,7 +35512,7 @@
 			(uuid "2c2b16b5-b84d-4a1c-8e2b-a5bb56ecafd4")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/QFN-24_L4.0-W4.0-P0.50-BL-EP2.7.step"
+		(model "${KICAD10_3DMODEL_DIR}/QFN-24_L4.0-W4.0-P0.50-BL-EP2.7.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -36263,12 +35600,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/2805d727-1109-4b9d-b7f3-204c785c92af")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36412,7 +35743,7 @@
 			(uuid "95599acb-1ba6-43e2-aee8-8355e14344d8")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -36488,12 +35819,6 @@
 		(path "/d06f5338-d839-45bd-ae1a-cb9d2da3e16c/b44d86cb-0d25-4b58-a707-fa7f79267270")
 		(sheetname "/GPIO-CONN/")
 		(sheetfile "gpio-conn.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -36584,12 +35909,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/440fe556-b616-4c86-9dac-52bcc04da8b5")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36777,7 +36096,7 @@
 			(uuid "25185245-a912-4efc-b4e3-b4822dd44eb0")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0603_L1.6-W0.8-H0.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -36847,16 +36166,24 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Part" "C170151"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "01685f09-84b2-4a1e-937a-5951a321a858")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/48ba351b-e9f4-4103-a56c-edfbecbb1b1b")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37044,7 +36371,7 @@
 			(uuid "dbda2b6b-83c6-4de8-800a-4cead852e67b")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -37132,12 +36459,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/0be13a95-c865-43c5-af05-a61c7244ba13")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37281,7 +36602,7 @@
 			(uuid "fd315c05-bd8d-435c-98a3-79511b69fdb4")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -37396,12 +36717,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/3621a50b-9376-45f2-99b9-1495127a2f89")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37536,7 +36851,7 @@
 		)
 		(fp_arc
 			(start -2.949975 -3.45245)
-			(mid -2.710006 -3.448777)
+			(mid -2.710006 -3.448775)
 			(end -2.95 -3.45)
 			(stroke
 				(width 0.1)
@@ -37702,7 +37017,7 @@
 			(uuid "2c525a7e-321d-47e4-8f09-25aa69b5329a")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -37790,12 +37105,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/d679b542-d872-41bc-b4e0-7ea2a4342adb")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37983,7 +37292,7 @@
 			(uuid "fb55ac70-3b57-487e-9412-44040d0baa05")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0603_L1.6-W0.8-H0.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -38071,12 +37380,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/3ad9ad35-a427-4572-96b5-3644fb817dd1")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38220,7 +37523,7 @@
 			(uuid "88f4643f-fd11-4a0e-bb07-131e362c536b")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -38308,12 +37611,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/16f4ce57-4155-43d1-86b7-3c2a8965c36f")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38457,7 +37754,7 @@
 			(uuid "7fa05269-e443-4a8e-8383-7e3596ed1ed6")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -38545,12 +37842,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/461e4643-1660-48bb-a1c6-308806927ef4")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38694,7 +37985,7 @@
 			(uuid "3650664a-5d04-49f6-8501-4241a6a58d0c")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -38809,12 +38100,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/f49e0284-5674-4c40-9f6b-fff1a66321d7")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38949,7 +38234,7 @@
 		)
 		(fp_arc
 			(start -2.949975 -3.45245)
-			(mid -2.710006 -3.448777)
+			(mid -2.710006 -3.448775)
 			(end -2.95 -3.45)
 			(stroke
 				(width 0.1)
@@ -39115,7 +38400,7 @@
 			(uuid "8a222c75-9b55-4f05-982d-d7b74fc37ff8")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -39203,12 +38488,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/031e4afe-9708-41c5-961b-2c0e3d51a0e7")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -39352,7 +38631,7 @@
 			(uuid "c5859134-0a33-4e83-b505-e40dc547f6af")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -39440,12 +38719,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/83411083-c3c3-4a6e-be8c-b8444af69d6a")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -39589,7 +38862,7 @@
 			(uuid "b0bd9095-ea43-4e72-91f7-959dac2d26b5")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -39677,12 +38950,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/9863212a-072a-4cb6-a8b5-50c308145524")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -39870,7 +39137,7 @@
 			(uuid "c393dd4d-5c15-45cf-8ea5-64eec9724ab3")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -39958,12 +39225,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/14e67ae3-38ee-47e2-98d1-b6503852ad1b")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40151,7 +39412,7 @@
 			(uuid "5a0e7e12-92ce-4de0-b3a9-7ffda534d192")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -40345,12 +39606,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/779558ee-a097-4d33-96d4-1983a90a7ac3")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40538,7 +39793,7 @@
 			(uuid "0a68cf78-985a-43d9-b5f1-b78e2f0a84ff")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -40614,12 +39869,6 @@
 		(path "/d06f5338-d839-45bd-ae1a-cb9d2da3e16c/e386e99c-b5c5-4da9-869e-c28210bf0cba")
 		(sheetname "/GPIO-CONN/")
 		(sheetfile "gpio-conn.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -40710,12 +39959,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/91476a47-e763-4276-b977-e5893b62d0df")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40903,7 +40146,7 @@
 			(uuid "7651e29c-3328-44bc-a019-76188c542a46")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -41018,12 +40261,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/273f9472-df69-4267-86b1-643595302733")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -41158,7 +40395,7 @@
 		)
 		(fp_arc
 			(start -2.949975 -3.45245)
-			(mid -2.710006 -3.448777)
+			(mid -2.710006 -3.448775)
 			(end -2.95 -3.45)
 			(stroke
 				(width 0.1)
@@ -41324,7 +40561,7 @@
 			(uuid "1da093c4-facd-4219-be48-bd22897ff49b")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -41439,12 +40676,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/b0ff915a-5b87-43c9-a548-746d168cc509")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -41579,7 +40810,7 @@
 		)
 		(fp_arc
 			(start -2.949975 -3.45245)
-			(mid -2.710006 -3.448777)
+			(mid -2.710006 -3.448775)
 			(end -2.95 -3.45)
 			(stroke
 				(width 0.1)
@@ -41745,7 +40976,7 @@
 			(uuid "13c72b3f-faf3-418f-9226-4fcf80c12ea8")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -41833,12 +41064,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/3de0c389-addb-46c4-a01f-859d6a399532")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -41982,7 +41207,7 @@
 			(uuid "890a2277-7d40-4e10-945e-c397e8743734")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -42070,12 +41295,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/882def35-3faf-491a-8ffe-775ea1296fa0")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -42263,7 +41482,7 @@
 			(uuid "2a7687e2-4aa3-4a21-9056-8fb79d8577ba")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -42339,12 +41558,6 @@
 		(path "/d06f5338-d839-45bd-ae1a-cb9d2da3e16c/11192d21-9b8b-44b6-8659-ef8d311ee103")
 		(sheetname "/GPIO-CONN/")
 		(sheetfile "gpio-conn.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -42435,12 +41648,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/f8e68005-23b0-4eb7-9252-e8cec7dc5c4e")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -42584,7 +41791,7 @@
 			(uuid "64908870-754f-466d-8f87-d202889bf6e4")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -42672,17 +41879,11 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/2cf819db-c1ad-410f-81e6-dbf0e580d69e")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -0.87 -0.349999)
-			(end -0.87 0.349999)
+			(start -0.87 -0.35)
+			(end -0.87 0.35)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -42691,7 +41892,7 @@
 			(uuid "ca87d761-16fe-462e-a60e-460e1c791eec")
 		)
 		(fp_line
-			(start -0.719999 0.5)
+			(start -0.72 0.5)
 			(end -0.22 0.5)
 			(stroke
 				(width 0.1)
@@ -42702,7 +41903,7 @@
 		)
 		(fp_line
 			(start -0.22 -0.5)
-			(end -0.719999 -0.5)
+			(end -0.72 -0.5)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -42712,7 +41913,7 @@
 		)
 		(fp_line
 			(start 0.22 0.5)
-			(end 0.719999 0.5)
+			(end 0.72 0.5)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -42721,7 +41922,7 @@
 			(uuid "d04e4bef-256c-4aaa-9e92-7a46a31b8036")
 		)
 		(fp_line
-			(start 0.719999 -0.5)
+			(start 0.72 -0.5)
 			(end 0.22 -0.5)
 			(stroke
 				(width 0.1)
@@ -42731,8 +41932,8 @@
 			(uuid "3ed637ca-6dd7-4b4a-8508-932aed679d36")
 		)
 		(fp_line
-			(start 0.87 0.349999)
-			(end 0.87 -0.349999)
+			(start 0.87 0.35)
+			(end 0.87 -0.35)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -42741,20 +41942,9 @@
 			(uuid "86af0dd8-4749-4e49-8a3c-b8dbf7046e0c")
 		)
 		(fp_arc
-			(start -0.87 -0.349999)
-			(mid -0.826066 -0.456065)
-			(end -0.719999 -0.5)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "eae34b03-2a55-4ef4-969e-16f449bc2a58")
-		)
-		(fp_arc
-			(start -0.719999 0.5)
-			(mid -0.826066 0.456065)
-			(end -0.87 0.349999)
+			(start -0.87 -0.35)
+			(mid -0.826066 -0.456066)
+			(end -0.72 -0.5)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -42763,9 +41953,20 @@
 			(uuid "7464727e-ed20-41f9-9699-abca7e9724c3")
 		)
 		(fp_arc
-			(start 0.719999 -0.5)
-			(mid 0.826066 -0.456065)
-			(end 0.87 -0.349999)
+			(start -0.72 0.5)
+			(mid -0.826066 0.456066)
+			(end -0.87 0.35)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "eae34b03-2a55-4ef4-969e-16f449bc2a58")
+		)
+		(fp_arc
+			(start 0.72 -0.5)
+			(mid 0.826066 -0.456066)
+			(end 0.87 -0.35)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -42774,9 +41975,9 @@
 			(uuid "472f142c-0b02-4c88-b637-e5480e020e5c")
 		)
 		(fp_arc
-			(start 0.87 0.349999)
-			(mid 0.826066 0.456065)
-			(end 0.719999 0.5)
+			(start 0.87 0.35)
+			(mid 0.826066 0.456066)
+			(end 0.72 0.5)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -42865,7 +42066,7 @@
 			(uuid "a2ac05de-6604-4171-806a-e178e8a6b10f")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -42953,12 +42154,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/96b1fb04-51dc-48f6-a67e-9d97440f38b1")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -43102,7 +42297,7 @@
 			(uuid "4210db85-de54-492c-954f-33c858ad6368")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -43217,14 +42412,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/27cc9821-44d4-4ed4-b582-b2883578fda7")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "20" "19" "18" "17" "16"
-					"15" "14" "13" "12" "11"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -43309,7 +42496,7 @@
 		)
 		(fp_arc
 			(start -2.050025 1.542429)
-			(mid -2.289994 1.538745)
+			(mid -2.289993 1.538785)
 			(end -2.05 1.54)
 			(stroke
 				(width 0.1)
@@ -43693,7 +42880,7 @@
 			(uuid "4e1bbe27-ce5c-457b-bac6-ba249af56b22")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/UFQFPN-20_L3.0-W3.0-H0.6-P0.50.step"
+		(model "${KICAD10_3DMODEL_DIR}/UFQFPN-20_L3.0-W3.0-H0.6-P0.50.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -43781,12 +42968,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/bac3593b-7d3f-4f53-ad53-1206d4f5f6a1")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -43930,7 +43111,7 @@
 			(uuid "10f22cd6-b8bb-4907-a513-9729cb6b4087")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -44018,12 +43199,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/4aecae23-bd0b-4984-9882-d67e9e009408")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -44211,7 +43386,7 @@
 			(uuid "fa2ecaac-58c8-4b3c-9320-a5fba690aa26")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -44299,12 +43474,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/29be692e-7b09-4cb7-a88a-8efff55ca6ea")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -44448,7 +43617,7 @@
 			(uuid "388c525e-7386-4dda-8110-1d0a3f38b19c")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -44536,12 +43705,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/175f2eb8-3176-46a0-9929-fe89a1d2ae52")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -44685,7 +43848,7 @@
 			(uuid "fb7a4ec2-1e8b-4c4a-83fd-21ef23a214a8")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -44773,12 +43936,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/d503bae9-446f-4865-b971-c226ffdea5a8")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -44922,7 +44079,7 @@
 			(uuid "57291c97-9b43-4379-86c5-1b2e518459bd")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -45037,14 +44194,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/3187d317-7295-49fa-820b-5b1a004e5507")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "25" "24" "23"
-					"22" "21" "20" "19" "18" "17" "16" "15" "14" "13"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -45440,7 +44589,7 @@
 			(uuid "f944d2da-6aaf-497a-bdaa-f1b425f4c208")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/QFN-24_L4.0-W4.0-P0.50-BL-EP2.7.step"
+		(model "${KICAD10_3DMODEL_DIR}/QFN-24_L4.0-W4.0-P0.50-BL-EP2.7.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -45528,12 +44677,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/9cc814e1-f2e6-44f2-9f0f-fdfebda89a5a")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -45677,7 +44820,7 @@
 			(uuid "ad66a782-f8fb-434e-97d9-3b0ef4f0d9a5")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -45765,12 +44908,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/b65b4542-1baa-443c-8aa4-8e907a992117")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -45914,7 +45051,7 @@
 			(uuid "573729c9-186e-485f-a5b6-440ba94aeb1e")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -46002,12 +45139,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/45182976-1ea8-4b8e-8bcc-13e0be57f7d3")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -46151,7 +45282,7 @@
 			(uuid "44ed8041-53b7-48e4-a67f-d81b5243829a")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -46239,12 +45370,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/07347779-ed7d-45af-8972-86bacbaae46c")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -46388,7 +45513,7 @@
 			(uuid "14e4162f-ad54-49d6-a082-9f13d69b7bbe")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -46503,12 +45628,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/113fa5de-f4f4-4846-8fae-234ac3f0b65e")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -46643,7 +45762,7 @@
 		)
 		(fp_arc
 			(start -2.949975 -3.45245)
-			(mid -2.710006 -3.448777)
+			(mid -2.710006 -3.448775)
 			(end -2.95 -3.45)
 			(stroke
 				(width 0.1)
@@ -46809,7 +45928,7 @@
 			(uuid "dd96b167-f332-41f5-ad62-884e32abeb66")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -46897,12 +46016,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/88c3d044-329d-4939-93de-25591811ce83")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -47090,7 +46203,7 @@
 			(uuid "5e8cb633-ca10-434f-9d7e-70f9b66fb289")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -47166,12 +46279,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/f29faefe-757f-4dd0-b252-332d71d099fb")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -47262,12 +46369,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/5c89e09c-d7cf-4b27-a148-22abc2a1623c")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -47455,7 +46556,7 @@
 			(uuid "6739afce-70f6-4f83-aa44-ec0e16a0496e")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -47543,12 +46644,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/aa22d75e-52d2-442e-9682-0c23533f6ad4")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -47692,7 +46787,7 @@
 			(uuid "7d5acc05-58d3-4052-be5b-f11cf717f2e4")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -47780,12 +46875,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/243ad5fe-a337-466c-a769-e48498430c02")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -47973,7 +47062,7 @@
 			(uuid "dca5c82a-08fb-4f4e-b5d7-c1862315a414")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -48061,12 +47150,6 @@
 		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/a45452b0-5d06-43da-9f29-697334d88136")
 		(sheetname "/MOTOR_DRIVER_M4/")
 		(sheetfile "motor_driver_m4.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -48210,7 +47293,7 @@
 			(uuid "4633a653-baee-4d96-91bf-d1ed57ebfde7")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -48298,26 +47381,20 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/d0ac7ebd-aeb4-4e8c-bbf4-044fc916649d")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start 0.870001 0.349999)
-			(end 0.87 -0.349999)
+			(start 0.87 0.35)
+			(end 0.87 -0.35)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "9aa8b97f-3a42-4e5a-b7b7-23ebbcd0399d")
+			(uuid "e70c5c1c-7ce5-45c1-9283-d55bcadc9ae7")
 		)
 		(fp_line
-			(start 0.72 -0.500001)
+			(start 0.72 -0.5)
 			(end 0.22 -0.5)
 			(stroke
 				(width 0.1)
@@ -48328,7 +47405,7 @@
 		)
 		(fp_line
 			(start 0.22 0.5)
-			(end 0.719999 0.5)
+			(end 0.72 0.5)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -48338,7 +47415,7 @@
 		)
 		(fp_line
 			(start -0.22 -0.5)
-			(end -0.719999 -0.5)
+			(end -0.72 -0.5)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -48347,7 +47424,7 @@
 			(uuid "5b71617d-89ed-4fed-9148-7f717745959e")
 		)
 		(fp_line
-			(start -0.72 0.500001)
+			(start -0.72 0.5)
 			(end -0.22 0.5)
 			(stroke
 				(width 0.1)
@@ -48357,19 +47434,19 @@
 			(uuid "3b079a1e-2002-441e-a6cd-7f2bb6aa5528")
 		)
 		(fp_line
-			(start -0.870001 -0.349999)
-			(end -0.87 0.349999)
+			(start -0.87 -0.35)
+			(end -0.87 0.35)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "e70c5c1c-7ce5-45c1-9283-d55bcadc9ae7")
+			(uuid "9aa8b97f-3a42-4e5a-b7b7-23ebbcd0399d")
 		)
 		(fp_arc
-			(start 0.870001 0.349999)
-			(mid 0.826067 0.456066)
-			(end 0.719999 0.5)
+			(start 0.87 0.35)
+			(mid 0.826066 0.456066)
+			(end 0.72 0.5)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -48378,9 +47455,9 @@
 			(uuid "75bd8137-09a1-43a2-8240-fca06a0dc5a5")
 		)
 		(fp_arc
-			(start 0.72 -0.500001)
-			(mid 0.826067 -0.456066)
-			(end 0.87 -0.349999)
+			(start 0.72 -0.5)
+			(mid 0.826066 -0.456066)
+			(end 0.87 -0.35)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -48389,20 +47466,9 @@
 			(uuid "228e86c4-16be-4aac-a255-466777341a8a")
 		)
 		(fp_arc
-			(start -0.72 0.500001)
-			(mid -0.826066 0.456065)
-			(end -0.87 0.349999)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "01b1d878-db6b-4b3b-b674-58841abb2a0d")
-		)
-		(fp_arc
-			(start -0.870001 -0.349999)
-			(mid -0.826066 -0.456065)
-			(end -0.719999 -0.5)
+			(start -0.72 0.5)
+			(mid -0.826066 0.456066)
+			(end -0.87 0.35)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -48410,9 +47476,20 @@
 			(layer "B.SilkS")
 			(uuid "93bddbbd-21ae-4866-b7c4-38b4c8da250b")
 		)
+		(fp_arc
+			(start -0.87 -0.35)
+			(mid -0.826066 -0.456066)
+			(end -0.72 -0.5)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "01b1d878-db6b-4b3b-b674-58841abb2a0d")
+		)
 		(fp_circle
 			(center -0.5 -0.25)
-			(end -0.47 -0.250001)
+			(end -0.47 -0.25)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -48491,7 +47568,7 @@
 			(uuid "63f58377-d167-4f95-bc99-c59c27a5c064")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -48606,12 +47683,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/449a44d3-9fa7-498c-84de-28efb9cf05d7")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "9" "8" "7" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -48746,7 +47817,7 @@
 		)
 		(fp_arc
 			(start -2.949975 -3.45245)
-			(mid -2.710006 -3.448777)
+			(mid -2.710006 -3.448775)
 			(end -2.95 -3.45)
 			(stroke
 				(width 0.1)
@@ -48912,7 +47983,7 @@
 			(uuid "015d8468-9d5e-49d3-be32-2bc42c5d575c")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
+		(model "${KICAD10_3DMODEL_DIR}/PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -48988,12 +48059,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/08e0e2dd-7413-41a1-a84c-444686884a4c")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -49084,12 +48149,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/2e1ce2f6-f00e-40e1-a0eb-bab11bc67002")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -49277,7 +48336,7 @@
 			(uuid "ebdcd720-9464-4fed-aa96-a9efa7e853af")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -49365,12 +48424,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/87254fa3-25bf-45c6-b7af-3af1fb8ccdb3")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -49514,7 +48567,7 @@
 			(uuid "6889065a-161b-4221-ba63-158e9efac05e")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -49590,12 +48643,6 @@
 		(path "/d06f5338-d839-45bd-ae1a-cb9d2da3e16c/9ad2f173-49f3-4188-949b-d9d9eef6b4cf")
 		(sheetname "/GPIO-CONN/")
 		(sheetfile "gpio-conn.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" smd roundrect
@@ -49686,12 +48733,6 @@
 		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/336f04a2-2a03-4688-a555-5d88e02df82a")
 		(sheetname "/MOTOR_DRIVER_M2/")
 		(sheetfile "motor_driver_m2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -49835,7 +48876,7 @@
 			(uuid "a4486f96-8474-47d7-b714-bb2708ee0319")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -49923,12 +48964,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/032d8bf0-4c3b-4f22-9132-62449a52decf")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -50072,7 +49107,7 @@
 			(uuid "2e02cead-064f-4207-af98-23b89966ea7c")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -50160,12 +49195,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/bbbccc21-5f6f-461a-a9ff-fd988851364f")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -50353,7 +49382,7 @@
 			(uuid "3f1dac39-a0b2-4860-adc3-24807bfc6972")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/C0402_L1.0-W0.5-H0.5.step"
+		(model "${KICAD10_3DMODEL_DIR}/C0402_L1.0-W0.5-H0.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -50441,12 +49470,6 @@
 		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/a109e7cf-d256-4c84-8c55-0260a4d28ec8")
 		(sheetname "/MOTOR_DRIVER_M3/")
 		(sheetfile "motor_driver_m3.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -50590,7 +49613,7 @@
 			(uuid "6cd06ac8-b64e-45fa-8728-a4c9fb9a7ac5")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -50678,12 +49701,6 @@
 		(path "/63f0bd9c-70c2-4847-814d-8da099671243/cb9f7c4d-1502-4367-851d-65e5e9e89df4")
 		(sheetname "/MOTOR_DRIVER_M1/")
 		(sheetfile "motor_driver_m1.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -50827,7 +49844,7 @@
 			(uuid "8eac401b-b546-46cb-bf4c-51141a2a68d2")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/SriLi/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/R0402_L1.0-W0.5-H0.4.step"
+		(model "${KICAD10_3DMODEL_DIR}/R0402_L1.0-W0.5-H0.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
