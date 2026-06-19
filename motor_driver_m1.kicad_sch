@@ -1981,7 +1981,7 @@
 		(at 44.45 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3d3a9a79-fa91-4f5c-9c3e-426c05712af8")
+		(uuid "3f49733d-f9b7-43aa-aa60-3cb3ac1bf93e")
 	)
 	(junction
 		(at 119.38 118.11)
@@ -2032,6 +2032,12 @@
 		(uuid "99d8d1d4-3111-43c6-9b98-0ffbaaa5c2a4")
 	)
 	(junction
+		(at 55.88 24.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "99e115be-a497-4609-a93c-2c39d6c15bd1")
+	)
+	(junction
 		(at 55.88 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2050,16 +2056,14 @@
 		(uuid "be2dadcd-880d-48a7-b3fd-3b305bd4e843")
 	)
 	(junction
-		(at 55.88 24.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e4c6aeea-3706-42b2-82b5-49cea0febb5a")
-	)
-	(junction
 		(at 25.4 175.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f1a40346-dcb1-4c40-8470-c0085223bf6a")
+	)
+	(no_connect
+		(at 118.11 49.53)
+		(uuid "2421e574-18de-4618-9200-cadb57b5b713")
 	)
 	(no_connect
 		(at 64.77 44.45)
@@ -2068,6 +2072,14 @@
 	(no_connect
 		(at 118.11 44.45)
 		(uuid "963e1cce-5f1e-418e-a350-48600f441abb")
+	)
+	(no_connect
+		(at 118.11 46.99)
+		(uuid "96e93a67-1de1-449b-9da6-8d1702fe5e62")
+	)
+	(no_connect
+		(at 64.77 54.61)
+		(uuid "eaad2409-ab41-40f1-85c6-d07310bae050")
 	)
 	(wire
 		(pts
@@ -3051,7 +3063,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 46.99) (xy 59.69 46.99)
+			(xy 59.69 46.99) (xy 64.77 46.99)
 		)
 		(stroke
 			(width 0)
@@ -6071,7 +6083,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27cc9821-44d4-4ed4-b582-b2883578fda7")
-		(property "Reference" "U2"
+		(property "Reference" "M1"
 			(at 91.44 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6220,7 +6232,7 @@
 		(instances
 			(project "esc"
 				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/63f0bd9c-70c2-4847-814d-8da099671243"
-					(reference "U2")
+					(reference "M1")
 					(unit 1)
 				)
 			)
@@ -6396,7 +6408,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3187d317-7295-49fa-820b-5b1a004e5507")
-		(property "Reference" "U3"
+		(property "Reference" "GD1"
 			(at 81.28 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6560,7 +6572,7 @@
 		(instances
 			(project "esc"
 				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/63f0bd9c-70c2-4847-814d-8da099671243"
-					(reference "U3")
+					(reference "GD1")
 					(unit 1)
 				)
 			)
@@ -7636,7 +7648,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "48325f0f-bb57-476e-9764-64be728d410b")
-		(property "Reference" "J4"
+		(property "Reference" "J1"
 			(at 154.305 160.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7695,7 +7707,7 @@
 		(instances
 			(project "esc"
 				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/63f0bd9c-70c2-4847-814d-8da099671243"
-					(reference "J4")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -8636,7 +8648,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7f65302a-8c61-4ff1-b187-a3e523f614ca")
-		(property "Reference" "J5"
+		(property "Reference" "J2"
 			(at 154.305 168.91 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8695,7 +8707,7 @@
 		(instances
 			(project "esc"
 				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/63f0bd9c-70c2-4847-814d-8da099671243"
-					(reference "J5")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -10127,7 +10139,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2db7b79-1fbf-4d67-a1a6-9e6b2de6f93c")
-		(property "Reference" "J6"
+		(property "Reference" "J3"
 			(at 154.305 179.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10186,7 +10198,7 @@
 		(instances
 			(project "esc"
 				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/63f0bd9c-70c2-4847-814d-8da099671243"
-					(reference "J6")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -11304,7 +11316,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f29faefe-757f-4dd0-b252-332d71d099fb")
-		(property "Reference" "J2"
+		(property "Reference" "DShot_M1"
 			(at 165.1 127.6349 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11365,7 +11377,7 @@
 		(instances
 			(project "esc"
 				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/63f0bd9c-70c2-4847-814d-8da099671243"
-					(reference "J2")
+					(reference "DShot_M1")
 					(unit 1)
 				)
 			)

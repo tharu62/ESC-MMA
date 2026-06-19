@@ -292,7 +292,7 @@
 	)
 	(global_label "SWDIO_M4"
 		(shape input)
-		(at 77.47 87.63 180)
+		(at 77.47 88.9 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -302,7 +302,7 @@
 		)
 		(uuid "b1654b67-c9e7-41ad-bfaf-65c14d79d137")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.9901 87.63 0)
+			(at 64.9901 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -340,7 +340,7 @@
 	)
 	(global_label "SWDIO_M2"
 		(shape input)
-		(at 77.47 78.74 180)
+		(at 77.47 80.01 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -350,7 +350,7 @@
 		)
 		(uuid "ffd58b41-fb3b-4a25-a96d-e68b5c931bb4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.9901 78.74 0)
+			(at 64.9901 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -364,7 +364,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
-		(at 82.55 78.74 180)
+		(at 82.55 80.01 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -373,8 +373,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "11192d21-9b8b-44b6-8659-ef8d311ee103")
-		(property "Reference" "J22"
-			(at 82.423 77.216 0)
+		(property "Reference" "SWDIO_M2"
+			(at 88.265 78.232 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -384,7 +384,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Pin"
-			(at 91.44 78.74 0)
+			(at 91.44 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -394,7 +394,7 @@
 			)
 		)
 		(property "Footprint" "deshan:Conn_01x01_Pin"
-			(at 82.55 78.74 0)
+			(at 82.55 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -405,7 +405,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 82.55 78.74 0)
+			(at 82.55 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -416,7 +416,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 82.55 78.74 0)
+			(at 82.55 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -432,7 +432,7 @@
 		(instances
 			(project "esc"
 				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/d06f5338-d839-45bd-ae1a-cb9d2da3e16c"
-					(reference "J22")
+					(reference "SWDIO_M2")
 					(unit 1)
 				)
 			)
@@ -449,8 +449,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "45271e94-376f-4f9f-9799-bc8157f082a6")
-		(property "Reference" "J24"
-			(at 82.423 82.042 0)
+		(property "Reference" "SWDIO_M3"
+			(at 88.265 83.312 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -508,7 +508,7 @@
 		(instances
 			(project "esc"
 				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/d06f5338-d839-45bd-ae1a-cb9d2da3e16c"
-					(reference "J24")
+					(reference "SWDIO_M3")
 					(unit 1)
 				)
 			)
@@ -525,8 +525,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "68813b3a-2bb0-4dd5-bafc-9a20bb163780")
-		(property "Reference" "J27"
-			(at 82.677 66.548 0)
+		(property "Reference" "SWCLK_M4"
+			(at 88.519 66.548 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -584,7 +584,7 @@
 		(instances
 			(project "esc"
 				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/d06f5338-d839-45bd-ae1a-cb9d2da3e16c"
-					(reference "J27")
+					(reference "SWCLK_M4")
 					(unit 1)
 				)
 			)
@@ -601,8 +601,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9ad2f173-49f3-4188-949b-d9d9eef6b4cf")
-		(property "Reference" "J21"
-			(at 82.677 51.308 0)
+		(property "Reference" "SWCLK_M1"
+			(at 88.773 51.562 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -660,7 +660,7 @@
 		(instances
 			(project "esc"
 				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/d06f5338-d839-45bd-ae1a-cb9d2da3e16c"
-					(reference "J21")
+					(reference "SWCLK_M1")
 					(unit 1)
 				)
 			)
@@ -677,8 +677,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a9736e84-9fae-4ae4-bdc5-69f18f7efabd")
-		(property "Reference" "J26"
-			(at 82.677 61.468 0)
+		(property "Reference" "SWCLK_M3"
+			(at 88.773 61.722 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -736,7 +736,7 @@
 		(instances
 			(project "esc"
 				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/d06f5338-d839-45bd-ae1a-cb9d2da3e16c"
-					(reference "J26")
+					(reference "SWCLK_M3")
 					(unit 1)
 				)
 			)
@@ -753,8 +753,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b44d86cb-0d25-4b58-a707-fa7f79267270")
-		(property "Reference" "J3"
-			(at 82.423 73.152 0)
+		(property "Reference" "SWDIO_M1"
+			(at 88.011 72.898 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -812,7 +812,7 @@
 		(instances
 			(project "esc"
 				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/d06f5338-d839-45bd-ae1a-cb9d2da3e16c"
-					(reference "J3")
+					(reference "SWDIO_M1")
 					(unit 1)
 				)
 			)
@@ -820,7 +820,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
-		(at 82.55 87.63 180)
+		(at 82.55 88.9 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -829,8 +829,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bdbc82a8-bfc1-4b83-afa6-f747c8635e17")
-		(property "Reference" "J25"
-			(at 82.423 86.106 0)
+		(property "Reference" "SWDIO_M4"
+			(at 88.265 86.868 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -840,7 +840,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Pin"
-			(at 91.44 87.63 0)
+			(at 91.44 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -850,7 +850,7 @@
 			)
 		)
 		(property "Footprint" "deshan:Conn_01x01_Pin"
-			(at 82.55 87.63 0)
+			(at 82.55 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -861,7 +861,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 82.55 87.63 0)
+			(at 82.55 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -872,7 +872,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 82.55 87.63 0)
+			(at 82.55 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -888,7 +888,7 @@
 		(instances
 			(project "esc"
 				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/d06f5338-d839-45bd-ae1a-cb9d2da3e16c"
-					(reference "J25")
+					(reference "SWDIO_M4")
 					(unit 1)
 				)
 			)
@@ -905,8 +905,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e386e99c-b5c5-4da9-869e-c28210bf0cba")
-		(property "Reference" "J23"
-			(at 82.677 56.388 0)
+		(property "Reference" "SWCLK_M2"
+			(at 89.027 56.388 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -964,7 +964,7 @@
 		(instances
 			(project "esc"
 				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/d06f5338-d839-45bd-ae1a-cb9d2da3e16c"
-					(reference "J23")
+					(reference "SWCLK_M2")
 					(unit 1)
 				)
 			)

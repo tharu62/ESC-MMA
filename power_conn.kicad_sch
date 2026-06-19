@@ -3296,7 +3296,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87e46d1c-989e-4982-9622-d882d40711de")
-		(property "Reference" "J1"
+		(property "Reference" "POWER_IN1"
 			(at 68.58 39.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3318,7 +3318,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "deshan:Batt_Conn_HV"
+		(property "Footprint" "deshan:Conn_01x01_power_x2"
 			(at 66.04 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -3360,7 +3360,7 @@
 		(instances
 			(project "esc"
 				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/d16f723d-eb96-498f-9f42-02a776bee3f3"
-					(reference "J1")
+					(reference "POWER_IN1")
 					(unit 1)
 				)
 			)
@@ -3378,7 +3378,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89f79126-bb7d-4f4f-9d28-9ab4b8dd182c")
-		(property "Reference" "J16"
+		(property "Reference" "POWER_OUT1"
 			(at 53.34 59.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3400,7 +3400,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "deshan:Batt_Conn_HV"
+		(property "Footprint" "deshan:Conn_01x01_power_x2"
 			(at 50.8 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -3442,7 +3442,7 @@
 		(instances
 			(project "esc"
 				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/d16f723d-eb96-498f-9f42-02a776bee3f3"
-					(reference "J16")
+					(reference "POWER_OUT1")
 					(unit 1)
 				)
 			)
@@ -3614,10 +3614,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9ebd749b-d677-4373-ad60-57b3e9e7b5e5")
-		(property "Reference" "J17"
-			(at 50.165 71.12 0)
+		(property "Reference" "3V3"
+			(at 54.737 73.914 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3627,7 +3626,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Pin"
-			(at 50.165 73.66 0)
+			(at 60.579 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3636,7 +3635,7 @@
 				)
 			)
 		)
-		(property "Footprint" "deshan:Conn_1x1_small"
+		(property "Footprint" "deshan:Conn_01x01_Pin"
 			(at 50.8 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3675,7 +3674,7 @@
 		(instances
 			(project "esc"
 				(path "/131092d7-5dad-4272-a758-a2445b6ec99c/d16f723d-eb96-498f-9f42-02a776bee3f3"
-					(reference "J17")
+					(reference "3V3")
 					(unit 1)
 				)
 			)
