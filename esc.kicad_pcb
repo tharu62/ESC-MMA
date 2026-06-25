@@ -5517,6 +5517,86 @@
 			)
 		)
 	)
+	(footprint "deshan:Conn_01x01_Pin"
+		(layer "F.Cu")
+		(uuid "40af4e4d-9b89-4190-92c7-d0a9eeab4c77")
+		(at 226.5 33.68)
+		(property "Reference" "SWCLK_M1"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "1fb19728-ca4e-4222-a5e1-d2161b67d9a3")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b6815806-3547-48f4-9ad7-9bb06ace9904")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ef81ff4a-8cb8-4244-9b58-041f80890d18")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a11274d4-d8e3-4531-8b63-b5aac3ffd2f4")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/63f0bd9c-70c2-4847-814d-8da099671243/75691840-9dc8-4b97-a432-454969f36848")
+		(sheetname "/MOTOR_DRIVER_M1/")
+		(sheetfile "motor_driver_m1.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 1 1.5)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.15)
+			(net "SWCLK_M1")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "45263d9e-5261-4367-9488-94ff92f346d1")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "easyeda2kicad:C0603"
 		(layer "F.Cu")
 		(uuid "429bbed6-cd7a-44c8-8a4e-2b890a07a2fe")
@@ -8088,6 +8168,246 @@
 			)
 		)
 	)
+	(footprint "deshan:Conn_01x01_Pin"
+		(layer "F.Cu")
+		(uuid "6db16535-f608-4dea-90ba-91b24eed22c0")
+		(at 232.5 29.18)
+		(property "Reference" "SWCLK_M4"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "6c4430d4-6d8f-45b1-acb9-2164cad60216")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "367285bf-ff9b-4444-a030-dc5fa91a5f91")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d6a5125-27f4-4d79-97d9-2aa621c091a7")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d3294309-0d58-497e-9c4f-b683921e11f1")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/4aad3b88-f832-441f-8753-836bd43e84dd")
+		(sheetname "/MOTOR_DRIVER_M4/")
+		(sheetfile "motor_driver_m4.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 1 1.5)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.15)
+			(net "SWCLK_M4")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "de54afaa-51b0-4a1d-96a4-2368188181d4")
+		)
+		(embedded_fonts no)
+	)
+	(footprint "deshan:Conn_01x01_Pin"
+		(layer "F.Cu")
+		(uuid "72ab6975-c0ee-4607-9c8b-efba8f3fe0db")
+		(at 228.5 33.68)
+		(property "Reference" "SWDIO_M1"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "2bbf7d69-99f2-4c97-815b-37a72cf4820a")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf353a8d-51e2-4217-92d6-79f8f821560c")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "006a7432-b47e-4b7f-ae98-2c6b25df5887")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "10dd1153-cfb0-4680-9eac-d8dfb0b8746e")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/63f0bd9c-70c2-4847-814d-8da099671243/2e8075bd-81b2-42d7-8e4f-78b0cfc6e997")
+		(sheetname "/MOTOR_DRIVER_M1/")
+		(sheetfile "motor_driver_m1.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 1 1.5)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.15)
+			(net "SWDIO_M1")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "beae4c03-db0a-4756-b1aa-c3cf2de6671d")
+		)
+		(embedded_fonts no)
+	)
+	(footprint "deshan:Conn_01x01_Pin"
+		(layer "F.Cu")
+		(uuid "72e03c9e-8133-4ac5-8025-7d8c3d02703f")
+		(at 234.5 33.68)
+		(property "Reference" "SWDIO_M2"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "fe5f5eae-e339-4996-a15b-be61ca7505a3")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d2d20515-8b65-4b8c-ae63-7e4c5f973a7f")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "163eeabb-6c74-4ab1-bd81-8b98e7dee6dd")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "39fe5a9c-f12d-4c28-a62c-68f3ee1207e9")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/6d1b4c2c-f2c9-4653-b4a6-132d6703d2c7")
+		(sheetname "/MOTOR_DRIVER_M2/")
+		(sheetfile "motor_driver_m2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 1 1.5)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.15)
+			(net "SWDIO_M2")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "b53b5349-385b-436e-92b7-6c2cf8676d21")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "easyeda2kicad:C0603"
 		(layer "F.Cu")
 		(uuid "74d939a9-1585-44c1-bce5-6cfec62d9594")
@@ -8912,6 +9232,86 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(footprint "deshan:Conn_01x01_Pin"
+		(layer "F.Cu")
+		(uuid "7b33aef7-5a8a-4f80-8749-7829a96cbbf2")
+		(at 228.5 29.18)
+		(property "Reference" "SWDIO_M3"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "66668d05-77eb-4c38-891e-7dd8b4c7d3fb")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "558beb5e-395b-4ee5-aa77-6c2ec17da4bb")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "44857442-b7bf-4778-a142-ca411651cb82")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7ec0fede-ea8b-4ac5-b10b-d45b3307bcc5")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/7fe5438e-565b-4010-9d21-d11a9e43c422")
+		(sheetname "/MOTOR_DRIVER_M3/")
+		(sheetfile "motor_driver_m3.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 1 1.5)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.15)
+			(net "SWDIO_M3")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "cb2a1d54-19be-4496-9e9c-1a837918ff85")
+		)
+		(embedded_fonts no)
 	)
 	(footprint "easyeda2kicad:PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL"
 		(layer "F.Cu")
@@ -13460,6 +13860,86 @@
 			)
 		)
 	)
+	(footprint "deshan:Conn_01x01_Pin"
+		(layer "F.Cu")
+		(uuid "c947effc-2646-4ee7-8c73-f548e831ed09")
+		(at 234.5 29.18)
+		(property "Reference" "SWDIO_M4"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "97a06c3b-fae9-4940-b29e-ddfd1562e872")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e04a8cae-66ee-4c21-9d0a-cea54d4e4d9d")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "be3de6de-9267-401a-aa8e-80660782064c")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "928588c5-94e8-4827-9017-aed0da591f99")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/64f99ce7-5d0e-46b7-9d46-1702590521d7/382e3963-11dd-42ce-bf85-80b3d9d9825f")
+		(sheetname "/MOTOR_DRIVER_M4/")
+		(sheetfile "motor_driver_m4.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 1 1.5)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.15)
+			(net "SWDIO_M4")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "a6f3e3c4-924f-4b9f-9766-f41ac910de48")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "easyeda2kicad:C0402"
 		(layer "F.Cu")
 		(uuid "cb53cd53-5b4c-4d2a-a597-0fcdadb46fd7")
@@ -15178,6 +15658,86 @@
 			)
 		)
 	)
+	(footprint "deshan:Conn_01x01_Pin"
+		(layer "F.Cu")
+		(uuid "dbf66428-0613-44d2-8c81-1c80ccf6b71e")
+		(at 226.5 29.18)
+		(property "Reference" "SWCLK_M3"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "2332d857-0398-4ca2-a2d2-58d8f58dc182")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f6fe1c12-a552-477d-be8a-0857767de9fb")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fee1a20d-a72a-4b86-aee5-dfc155b95a9e")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "54935f0e-3582-4a16-930d-a56cb606170c")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/01ceff22-9ba4-449c-a4ee-d6fe6e674f35/79dfeab5-4d03-4583-96fc-f5eebd36cdb2")
+		(sheetname "/MOTOR_DRIVER_M3/")
+		(sheetfile "motor_driver_m3.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 1 1.5)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.15)
+			(net "SWCLK_M3")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "90333491-2d96-40e8-ad49-8ebd3539b0f0")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "easyeda2kicad:R0402"
 		(layer "F.Cu")
 		(uuid "e874d9be-799e-4dab-ba40-9936d6c435fc")
@@ -15408,6 +15968,86 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(footprint "deshan:Conn_01x01_Pin"
+		(layer "F.Cu")
+		(uuid "f52e6d49-b827-4ae3-b396-0effdbdbeeda")
+		(at 232.5 33.68)
+		(property "Reference" "SWCLK_M2"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "a7d8beaa-3dcf-4ebc-8a27-1e820f78930f")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dfd0ae92-7788-47c2-ae91-34bb0ef36688")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5ef6e527-3500-4f9e-8175-792b35bd5f50")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c35b1430-7716-4f1a-9809-a1b65f0e578e")
+			(effects
+				(font
+					(size 0.2 0.2)
+					(thickness 0.05)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/e38f1183-feeb-4e2e-a0f6-2b964e24b911/a0579c4e-9530-4ae4-b10c-c5053ebc1256")
+		(sheetname "/MOTOR_DRIVER_M2/")
+		(sheetfile "motor_driver_m2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 1 1.5)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.15)
+			(net "SWCLK_M2")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "de8a9402-54ec-469d-8ace-769792258d91")
+		)
+		(embedded_fonts no)
 	)
 	(footprint "easyeda2kicad:PDFN-8_L5.8-W5.0-P1.27-LS6.0-BL"
 		(layer "F.Cu")
@@ -17832,7 +18472,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "18k"
+		(property "Value" "100k"
 			(at 0 -4 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -19698,7 +20338,7 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net "unconnected-(M1-PC15-OSCX_OUT-Pad1)")
 			(pinfunction "PC15-OSCX_OUT_1")
-			(pintype "unspecified")
+			(pintype "unspecified+no_connect")
 			(thermal_bridge_angle 90)
 			(options
 				(clearance outline)
@@ -21922,90 +22562,6 @@
 				(xyz 0 0 0)
 			)
 		)
-	)
-	(footprint "deshan:Conn_01x01_Pin"
-		(layer "B.Cu")
-		(uuid "20af8aeb-2fa0-4228-b5fd-c77ae08b3f20")
-		(at 223.67 78.86 180)
-		(property "Reference" "SWCLK_M4"
-			(at 0 0.5 0)
-			(unlocked yes)
-			(layer "B.SilkS")
-			(hide yes)
-			(uuid "a5f00d9f-09fc-4ba0-9929-44687a809c4d")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Value" "Conn_01x01_Pin"
-			(at 0 -1 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "c37093b3-d559-4849-88fe-ccb9c1e6ab8a")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "f097dfaf-6ad1-45b6-81f5-cf9c0574bc7a")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "1192bfdd-90e0-450d-a71b-6826defdab8a")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/d06f5338-d839-45bd-ae1a-cb9d2da3e16c/68813b3a-2bb0-4dd5-bafc-9a20bb163780")
-		(sheetname "/GPIO-CONN/")
-		(sheetfile "gpio-conn.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(pad "1" smd roundrect
-			(at 0 0 180)
-			(size 1 1.5)
-			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.15)
-			(net "SWCLK_M4")
-			(pinfunction "Pin_1_1")
-			(pintype "passive")
-			(uuid "adbe50d5-69cf-4a22-b765-a3f54651591f")
-		)
-		(embedded_fonts no)
 	)
 	(footprint "easyeda2kicad:R0402"
 		(layer "B.Cu")
@@ -25719,7 +26275,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "18k"
+		(property "Value" "100k"
 			(at 0 -4 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -28334,7 +28890,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "18k"
 			(at 0 -4 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -29265,90 +29821,6 @@
 			)
 		)
 	)
-	(footprint "deshan:Conn_01x01_Pin"
-		(layer "B.Cu")
-		(uuid "556bf55e-3084-47ed-9b09-5de7cd5d474f")
-		(at 236.63 42.83 180)
-		(property "Reference" "SWDIO_M1"
-			(at 0 0.5 0)
-			(unlocked yes)
-			(layer "B.SilkS")
-			(hide yes)
-			(uuid "ee59d70a-26f1-4952-8097-02eaa81e8fe8")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Value" "Conn_01x01_Pin"
-			(at 0 -1 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "fc406472-6308-4798-a580-aa579e724efd")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "3213205c-8379-4671-bc2e-97b792b3e820")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "6c5af5e4-6c56-47e1-88f3-639179269862")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/d06f5338-d839-45bd-ae1a-cb9d2da3e16c/b44d86cb-0d25-4b58-a707-fa7f79267270")
-		(sheetname "/GPIO-CONN/")
-		(sheetfile "gpio-conn.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(pad "1" smd roundrect
-			(at 0 0 180)
-			(size 1 1.5)
-			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.15)
-			(net "SWDIO_M1")
-			(pinfunction "Pin_1_1")
-			(pintype "passive")
-			(uuid "86611546-5015-4f2b-8cad-95bd77bdeb9c")
-		)
-		(embedded_fonts no)
-	)
 	(footprint "easyeda2kicad:R0402"
 		(layer "B.Cu")
 		(uuid "5696ff87-f23a-4377-a5fa-ea30479f8033")
@@ -29366,7 +29838,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "18k"
 			(at 0 -4 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -33359,90 +33831,6 @@
 			)
 		)
 	)
-	(footprint "deshan:Conn_01x01_Pin"
-		(layer "B.Cu")
-		(uuid "6d6a98f9-9509-47e7-9d65-cff08fe4c9c7")
-		(at 239.7 40.82 180)
-		(property "Reference" "SWDIO_M3"
-			(at 0 0.5 0)
-			(unlocked yes)
-			(layer "B.SilkS")
-			(hide yes)
-			(uuid "7843af2f-73de-4f78-a6b7-13ac0ad3ba1d")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Value" "~"
-			(at 0 -1 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "53339a55-b2ce-4ade-8447-9668330832b1")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "6fa5d717-9911-455f-907d-dc411ca3138f")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "83a04802-ec3a-4784-9ca3-f4daf42d1f63")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/d06f5338-d839-45bd-ae1a-cb9d2da3e16c/45271e94-376f-4f9f-9799-bc8157f082a6")
-		(sheetname "/GPIO-CONN/")
-		(sheetfile "gpio-conn.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(pad "1" smd roundrect
-			(at 0 0 180)
-			(size 1 1.5)
-			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.15)
-			(net "SWDIO_M3")
-			(pinfunction "Pin_1_1")
-			(pintype "passive")
-			(uuid "17ecb9db-ab41-43a0-9ae1-c47d3e4bce6d")
-		)
-		(embedded_fonts no)
-	)
 	(footprint "easyeda2kicad:R0402"
 		(layer "B.Cu")
 		(uuid "6d8fadca-7cd0-4b31-b6be-d33686b8a448")
@@ -34997,90 +35385,6 @@
 			)
 		)
 	)
-	(footprint "deshan:Conn_01x01_Pin"
-		(layer "B.Cu")
-		(uuid "735a78b8-1c94-479d-9e62-fa25b7b7c8af")
-		(at 223.67 76.61 180)
-		(property "Reference" "SWCLK_M2"
-			(at 0 0.5 0)
-			(unlocked yes)
-			(layer "B.SilkS")
-			(hide yes)
-			(uuid "1f7eb9bd-48c8-43b2-a85a-06b9e8427299")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Value" "Conn_01x01_Pin"
-			(at 0 -1 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "e463ae53-49df-4ce1-9c17-af654ad8d8bb")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "06f68aeb-2913-4eed-a496-49968c8d9ebd")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "60536f95-6a45-4a1c-bec6-0d9af2df5754")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/d06f5338-d839-45bd-ae1a-cb9d2da3e16c/e386e99c-b5c5-4da9-869e-c28210bf0cba")
-		(sheetname "/GPIO-CONN/")
-		(sheetfile "gpio-conn.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(pad "1" smd roundrect
-			(at 0 0 180)
-			(size 1 1.5)
-			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.15)
-			(net "SWCLK_M2")
-			(pinfunction "Pin_1_1")
-			(pintype "passive")
-			(uuid "f7dfeefe-b6ca-4433-9834-b2c56b2f7da5")
-		)
-		(embedded_fonts no)
-	)
 	(footprint "deshan:Conn_01x01_Power"
 		(layer "B.Cu")
 		(uuid "73d32271-c26c-497f-8eff-b47861d1e78c")
@@ -35919,90 +36223,6 @@
 				(xyz 0 0 0)
 			)
 		)
-	)
-	(footprint "deshan:Conn_01x01_Pin"
-		(layer "B.Cu")
-		(uuid "81d5ee5e-6789-4545-a6e9-a6e303701726")
-		(at 238.07 40.83 180)
-		(property "Reference" "SWCLK_M3"
-			(at 0 0.5 0)
-			(unlocked yes)
-			(layer "B.SilkS")
-			(hide yes)
-			(uuid "98820b7d-32fb-41c3-9595-140c60d34e56")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Value" "Conn_01x01_Pin"
-			(at 0 -1 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "cdb9813c-5b16-4c93-a171-169776ffb647")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "5f76288d-7ae6-4f47-9e42-fe1b903cbe5d")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "6fa83fff-cb3e-4bcd-b18a-c3056072ff3f")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/d06f5338-d839-45bd-ae1a-cb9d2da3e16c/a9736e84-9fae-4ae4-bdc5-69f18f7efabd")
-		(sheetname "/GPIO-CONN/")
-		(sheetfile "gpio-conn.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(pad "1" smd roundrect
-			(at 0 0 180)
-			(size 1 1.5)
-			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.15)
-			(net "SWCLK_M3")
-			(pinfunction "Pin_1_1")
-			(pintype "passive")
-			(uuid "ef81b87a-4b9d-4df5-884f-3f7f0c0900a8")
-		)
-		(embedded_fonts no)
 	)
 	(footprint "easyeda2kicad:R0402"
 		(layer "B.Cu")
@@ -37838,90 +38058,6 @@
 				(xyz 0 0 0)
 			)
 		)
-	)
-	(footprint "deshan:Conn_01x01_Pin"
-		(layer "B.Cu")
-		(uuid "91cb9d97-1160-4078-8841-501df0b0f298")
-		(at 225.48 76.61 180)
-		(property "Reference" "SWDIO_M2"
-			(at 0 0.5 0)
-			(unlocked yes)
-			(layer "B.SilkS")
-			(hide yes)
-			(uuid "0c946e80-e833-43c4-80d4-a48c92a1b79f")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Value" "Conn_01x01_Pin"
-			(at 0 -1 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "96ea9af9-98b9-4563-84c2-7bc53f522e70")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "b9027427-c1fa-44d9-b723-98478515cd79")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "59abf7c3-65f2-49b9-822a-6dc56f4f4e60")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/d06f5338-d839-45bd-ae1a-cb9d2da3e16c/11192d21-9b8b-44b6-8659-ef8d311ee103")
-		(sheetname "/GPIO-CONN/")
-		(sheetfile "gpio-conn.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(pad "1" smd roundrect
-			(at 0 0 180)
-			(size 1 1.5)
-			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.15)
-			(net "SWDIO_M2")
-			(pinfunction "Pin_1_1")
-			(pintype "passive")
-			(uuid "68afa1e7-9eb0-48fb-bf9e-32cb9c97de76")
-		)
-		(embedded_fonts no)
 	)
 	(footprint "easyeda2kicad:R0402"
 		(layer "B.Cu")
@@ -43674,7 +43810,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "18k"
+		(property "Value" "100k"
 			(at 0 -4 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -44706,7 +44842,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "18k"
 			(at 0 -4 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -45206,90 +45342,6 @@
 				(xyz 0 0 0)
 			)
 		)
-	)
-	(footprint "deshan:Conn_01x01_Pin"
-		(layer "B.Cu")
-		(uuid "bd3604f3-dde0-4bb1-af8c-a427b31182b3")
-		(at 225.57 78.9 180)
-		(property "Reference" "SWDIO_M4"
-			(at 0 0.5 0)
-			(unlocked yes)
-			(layer "B.SilkS")
-			(hide yes)
-			(uuid "afd95185-fe12-4210-a43a-adc94ce27bba")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Value" "Conn_01x01_Pin"
-			(at 0 -1 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "c1dd3108-8d19-4018-8309-90de1e189303")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "42287eb6-c062-466c-b962-51373bb9bc27")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "eaeec65d-6a23-4aee-a0d3-148c72641f1c")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/d06f5338-d839-45bd-ae1a-cb9d2da3e16c/bdbc82a8-bfc1-4b83-afa6-f747c8635e17")
-		(sheetname "/GPIO-CONN/")
-		(sheetfile "gpio-conn.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(pad "1" smd roundrect
-			(at 0 0 180)
-			(size 1 1.5)
-			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.15)
-			(net "SWDIO_M4")
-			(pinfunction "Pin_1_1")
-			(pintype "passive")
-			(uuid "17eeda7e-87c3-4dd8-9bfc-e65b3e14ad7d")
-		)
-		(embedded_fonts no)
 	)
 	(footprint "easyeda2kicad:C0402"
 		(layer "B.Cu")
@@ -47074,7 +47126,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "18k"
 			(at 0 -4 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -50091,90 +50143,6 @@
 				(xyz 0 0 0)
 			)
 		)
-	)
-	(footprint "deshan:Conn_01x01_Pin"
-		(layer "B.Cu")
-		(uuid "e645cb19-6857-4da2-8b4c-431e85f1a64d")
-		(at 238.11 42.85 180)
-		(property "Reference" "SWCLK_M1"
-			(at 0 0.5 0)
-			(unlocked yes)
-			(layer "B.SilkS")
-			(hide yes)
-			(uuid "683e2fc5-582f-4d2d-8059-ac5acb54e9eb")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Value" "Conn_01x01_Pin"
-			(at 0 -1 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "0bd05518-32c5-4869-9dcc-dac7e18c39f7")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "1a03e986-10f4-4909-9527-ebb1b3b9c320")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "37833fca-8ccc-452c-b6c6-fec731b69577")
-			(effects
-				(font
-					(size 0.2 0.2)
-					(thickness 0.05)
-				)
-				(justify mirror)
-			)
-		)
-		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/d06f5338-d839-45bd-ae1a-cb9d2da3e16c/9ad2f173-49f3-4188-949b-d9d9eef6b4cf")
-		(sheetname "/GPIO-CONN/")
-		(sheetfile "gpio-conn.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1")
-			)
-		)
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(pad "1" smd roundrect
-			(at 0 0 180)
-			(size 1 1.5)
-			(layers "B.Cu" "B.Mask" "B.Paste")
-			(roundrect_rratio 0.15)
-			(net "SWCLK_M1")
-			(pinfunction "Pin_1_1")
-			(pintype "passive")
-			(uuid "ca1fd426-35e0-46ca-8815-e506305dcf27")
-		)
-		(embedded_fonts no)
 	)
 	(footprint "easyeda2kicad:QFN-24_L4.0-W4.0-P0.50-BL-EP2.7"
 		(layer "B.Cu")
@@ -55249,7 +55217,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "18k"
+		(property "Value" "100k"
 			(at 0 -4 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -58537,14 +58505,6 @@
 		(layer "B.Cu")
 		(net "PHASE_A_M4")
 		(uuid "db4f57a8-76d9-453c-a9bb-20a8606a2cea")
-	)
-	(segment
-		(start 225.5 78.8)
-		(end 225.82 78.8)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "SWDIO_M4")
-		(uuid "81871f22-d6cb-4264-9ba1-3e33f0dec305")
 	)
 	(segment
 		(start 222.05 65)

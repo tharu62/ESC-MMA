@@ -7,12 +7,35 @@
 	(title_block
 		(title "ESC MULTI-MCU-ARCHITECTURE")
 		(rev "1.0")
-		(comment 1 "This is the pcb for an Elettronic Speed Controller of 4 indipendent BLDC motors.")
-		(comment 2 "MAX SPECIFICATION: 30V - 50A, Logic Level 3v3.")
 	)
 	(lib_symbols)
+	(text "MAX SPECIFICATION : 60V - 12A (PEAK) \nLOGIC LEVEL : 3V3 "
+		(exclude_from_sim no)
+		(at 177.546 173.482 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "533a0b14-63aa-48ee-947c-7e0ca11cba94")
+	)
+	(text "ELECTRONIC SPEED CONTROLLER 4in1"
+		(exclude_from_sim no)
+		(at 195.834 168.656 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "a97fffa5-76b9-4884-bc45-00540d676fdf")
+	)
 	(sheet
-		(at 152.4 58.42)
+		(at 35.56 91.44)
 		(size 31.75 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28,7 +51,7 @@
 		)
 		(uuid "01ceff22-9ba4-449c-a4ee-d6fe6e674f35")
 		(property "Sheetname" "MOTOR_DRIVER_M3"
-			(at 152.4 57.7084 0)
+			(at 35.56 90.7284 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -39,7 +62,7 @@
 			)
 		)
 		(property "Sheetfile" "motor_driver_m3.kicad_sch"
-			(at 152.4 85.6746 0)
+			(at 35.56 118.6946 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -58,7 +81,7 @@
 		)
 	)
 	(sheet
-		(at 152.4 107.95)
+		(at 35.56 127)
 		(size 31.75 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -74,7 +97,7 @@
 		)
 		(uuid "63f0bd9c-70c2-4847-814d-8da099671243")
 		(property "Sheetname" "MOTOR_DRIVER_M1"
-			(at 152.4 107.2384 0)
+			(at 35.56 126.2884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -85,7 +108,7 @@
 			)
 		)
 		(property "Sheetfile" "motor_driver_m1.kicad_sch"
-			(at 152.4 135.2046 0)
+			(at 35.56 154.2546 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -104,7 +127,7 @@
 		)
 	)
 	(sheet
-		(at 205.74 59.69)
+		(at 78.74 91.44)
 		(size 31.75 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -120,7 +143,7 @@
 		)
 		(uuid "64f99ce7-5d0e-46b7-9d46-1702590521d7")
 		(property "Sheetname" "MOTOR_DRIVER_M4"
-			(at 205.74 58.9784 0)
+			(at 78.74 90.7284 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -131,7 +154,7 @@
 			)
 		)
 		(property "Sheetfile" "motor_driver_m4.kicad_sch"
-			(at 205.74 86.9446 0)
+			(at 78.74 118.6946 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -150,53 +173,7 @@
 		)
 	)
 	(sheet
-		(at 91.44 109.22)
-		(size 29.21 25.4)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "d06f5338-d839-45bd-ae1a-cb9d2da3e16c")
-		(property "Sheetname" "GPIO-CONN"
-			(at 91.44 108.5084 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "gpio-conn.kicad_sch"
-			(at 91.44 135.2046 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "esc"
-				(path "/131092d7-5dad-4272-a758-a2445b6ec99c"
-					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 36.83 109.22)
+		(at 35.56 33.02)
 		(size 29.21 22.86)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -212,7 +189,7 @@
 		)
 		(uuid "d16f723d-eb96-498f-9f42-02a776bee3f3")
 		(property "Sheetname" "POWER CONN"
-			(at 36.83 108.5084 0)
+			(at 35.56 32.3084 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -223,7 +200,7 @@
 			)
 		)
 		(property "Sheetfile" "power_conn.kicad_sch"
-			(at 36.83 132.6646 0)
+			(at 35.56 56.4646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -242,7 +219,7 @@
 		)
 	)
 	(sheet
-		(at 207.01 107.95)
+		(at 78.74 128.27)
 		(size 31.75 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -258,7 +235,7 @@
 		)
 		(uuid "e38f1183-feeb-4e2e-a0f6-2b964e24b911")
 		(property "Sheetname" "MOTOR_DRIVER_M2"
-			(at 207.01 107.2384 0)
+			(at 78.74 127.5584 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -269,7 +246,7 @@
 			)
 		)
 		(property "Sheetfile" "motor_driver_m2.kicad_sch"
-			(at 207.01 135.2046 0)
+			(at 78.74 155.5246 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

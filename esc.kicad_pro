@@ -728,7 +728,7 @@
         "uuid": "131092d7-5dad-4272-a758-a2445b6ec99c"
       }
     ],
-    "used_designators": "M5,C61-64,#PWR85,#PWR88,#PWR98-99,#PWR102-104,#PWR107,R73-88,U1",
+    "used_designators": "SWDIO_M1-4,SWCLK_M1-4,M5,C61-64,#PWR85,#PWR88,#PWR98-99,#PWR102-104,#PWR107,R73-88,U1",
     "variants": []
   },
   "sheets": [
@@ -739,10 +739,6 @@
     [
       "d16f723d-eb96-498f-9f42-02a776bee3f3",
       "POWER CONN"
-    ],
-    [
-      "d06f5338-d839-45bd-ae1a-cb9d2da3e16c",
-      "GPIO-CONN"
     ],
     [
       "63f0bd9c-70c2-4847-814d-8da099671243",
