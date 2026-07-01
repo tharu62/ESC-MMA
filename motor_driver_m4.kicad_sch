@@ -7311,7 +7311,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:C0603"
+		(property "Footprint" "easyeda2kicad:C1206"
 			(at 271.4752 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -8513,7 +8513,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:C0603"
+		(property "Footprint" "easyeda2kicad:C1206"
 			(at 270.2052 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -9065,7 +9065,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:C0603"
+		(property "Footprint" "easyeda2kicad:C1206"
 			(at 270.2052 93.98 0)
 			(hide yes)
 			(show_name no)
