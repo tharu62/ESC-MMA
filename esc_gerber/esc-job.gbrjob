@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "10.0.4-10.0.4~ubuntu26.04.1"
     },
-    "CreationDate": "2026-06-21T15:03:51+02:00"
+    "CreationDate": "2026-07-04T16:40:04+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -14,10 +14,10 @@
       "Revision": "rev?"
     },
     "Size": {
-      "X": 40.2,
-      "Y": 45.2
+      "X": 48.2,
+      "Y": 49.22
     },
-    "LayerNumber": 6,
+    "LayerNumber": 4,
     "BoardThickness": 1.6,
     "Finish": "None"
   },
@@ -33,8 +33,8 @@
     },
     {
       "Layers": "Inner",
-      "PadToPad": 0.2,
-      "PadToTrack": 0.2,
+      "PadToPad": 0.0,
+      "PadToTrack": 0.0,
       "TrackToTrack": -0.0,
       "MinLineWidth": 0.2,
       "TrackToRegion": 0.5,
@@ -48,28 +48,18 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "esc-B+_Cu.gbr",
+      "Path": "esc-Ground_Cu.gbr",
       "FileFunction": "Copper,L2,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "esc-Ground_Cu.gbr",
+      "Path": "esc-Signal_Cu.gbr",
       "FileFunction": "Copper,L3,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "esc-Signal_Cu.gbr",
-      "FileFunction": "Copper,L4,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "esc-3V3_Cu.gbr",
-      "FileFunction": "Copper,L5,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "esc-B_Cu.gbr",
-      "FileFunction": "Copper,L6,Bot",
+      "FileFunction": "Copper,L4,Bot",
       "FilePolarity": "Positive"
     },
     {
@@ -131,20 +121,8 @@
       "Type": "Dielectric",
       "Thickness": 0.1,
       "Material": "FR4",
-      "Name": "F.Cu/B+.Cu",
-      "Notes": "Type: dielectric layer 1 (from F.Cu to B+.Cu)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.035,
-      "Name": "B+.Cu"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.535,
-      "Material": "FR4",
-      "Name": "B+.Cu/Ground.Cu",
-      "Notes": "Type: dielectric layer 2 (from B+.Cu to Ground.Cu)"
+      "Name": "F.Cu/Ground.Cu",
+      "Notes": "Type: dielectric layer 1 (from F.Cu to Ground.Cu)"
     },
     {
       "Type": "Copper",
@@ -153,10 +131,10 @@
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.1,
+      "Thickness": 1.24,
       "Material": "FR4",
       "Name": "Ground.Cu/Signal.Cu",
-      "Notes": "Type: dielectric layer 3 (from Ground.Cu to Signal.Cu)"
+      "Notes": "Type: dielectric layer 2 (from Ground.Cu to Signal.Cu)"
     },
     {
       "Type": "Copper",
@@ -165,22 +143,10 @@
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.535,
-      "Material": "FR4",
-      "Name": "Signal.Cu/3V3.Cu",
-      "Notes": "Type: dielectric layer 4 (from Signal.Cu to 3V3.Cu)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.035,
-      "Name": "3V3.Cu"
-    },
-    {
-      "Type": "Dielectric",
       "Thickness": 0.1,
       "Material": "FR4",
-      "Name": "3V3.Cu/B.Cu",
-      "Notes": "Type: dielectric layer 5 (from 3V3.Cu to B.Cu)"
+      "Name": "Signal.Cu/B.Cu",
+      "Notes": "Type: dielectric layer 3 (from Signal.Cu to B.Cu)"
     },
     {
       "Type": "Copper",
